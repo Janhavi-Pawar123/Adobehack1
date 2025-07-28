@@ -1,0 +1,2455 @@
+{
+  "metadata": {
+    "documents": [
+      "AR1.pdf",
+      "AR2.pdf",
+      "AR3.pdf"
+    ],
+    "persona": "Investment Analyst",
+    "job": "\"Analyze revenue trends, R&D investments, and market\npositioning strategies\"",
+    "timestamp": "2025-07-28T15:29:13.684642Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "AR1.pdf",
+      "page": 4,
+      "section_title": "Contents",
+      "importance_rank": 1
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 44,
+      "section_title": "ITEM\u00a01A.",
+      "importance_rank": 2
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 47,
+      "section_title": "Our products and services have had, and in the future may have, quality issues resulting from design, manufacturing, or operations.",
+      "importance_rank": 3
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 51,
+      "section_title": "Risks Related to Laws, Regulations, and Policies",
+      "importance_rank": 4
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 52,
+      "section_title": "For example, the U.S. Department of Justice, various U.S. states, and other plaintiffs have filed several antitrust lawsuits about various",
+      "importance_rank": 5
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 53,
+      "section_title": "We face, and may continue to face, intellectual property and other claims that could be costly to defend, result in significant",
+      "importance_rank": 6
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 61,
+      "section_title": "ITEM\u00a07.",
+      "importance_rank": 7
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 75,
+      "section_title": "Loss Contingencies",
+      "importance_rank": 8
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 80,
+      "section_title": "LOSS CONTINGENCIES",
+      "importance_rank": 9
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 90,
+      "section_title": "Fair Value Measurements",
+      "importance_rank": 10
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 91,
+      "section_title": "Our investments in marketable equity securities are measured at fair value with the related gains and losses, including unrealized,",
+      "importance_rank": 11
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 111,
+      "section_title": "From time to time we are subject to formal and informal inquiries and investigations on various competition matters by regulatory",
+      "importance_rank": 12
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 3,
+      "section_title": "To our investors,",
+      "importance_rank": 13
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 6,
+      "section_title": "Delivering products",
+      "importance_rank": 14
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 8,
+      "section_title": "Access to",
+      "importance_rank": 15
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 10,
+      "section_title": "AI-generated",
+      "importance_rank": 16
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 12,
+      "section_title": "Language models and",
+      "importance_rank": 17
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 15,
+      "section_title": "My Ad Center",
+      "importance_rank": 18
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 16,
+      "section_title": "Election information",
+      "importance_rank": 19
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 19,
+      "section_title": "YouTube Shorts",
+      "importance_rank": 20
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 20,
+      "section_title": "\u201cThe most incredible thing is how",
+      "importance_rank": 21
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 22,
+      "section_title": "Supporting economic",
+      "importance_rank": 22
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 23,
+      "section_title": "Expanding CS education",
+      "importance_rank": 23
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 27,
+      "section_title": "Monk Scale",
+      "importance_rank": 24
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 30,
+      "section_title": "Taking on the",
+      "importance_rank": 25
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 31,
+      "section_title": "Local ecology",
+      "importance_rank": 26
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 33,
+      "section_title": "Calico",
+      "importance_rank": 27
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 35,
+      "section_title": "ALPHABET INC.",
+      "importance_rank": 28
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 36,
+      "section_title": "As of June 30, 2022, the aggregate market value of shares held by non-affiliates of the registrant (based upon the closing sale",
+      "importance_rank": 29
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 37,
+      "section_title": "Table of Contents",
+      "importance_rank": 30
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 38,
+      "section_title": "NOTE ABOUT FORWARD-LOOKING STATEMENTS",
+      "importance_rank": 31
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 40,
+      "section_title": "Google",
+      "importance_rank": 32
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 41,
+      "section_title": "Other Bets",
+      "importance_rank": 33
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 42,
+      "section_title": "Ongoing Commitment to Sustainability",
+      "importance_rank": 34
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 43,
+      "section_title": "Government Regulation",
+      "importance_rank": 35
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 45,
+      "section_title": "online advertising. Such investments ultimately may not be commercially viable or may not result in an adequate return of capital and,",
+      "importance_rank": 36
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 46,
+      "section_title": "We also seek to maintain certain intellectual property as trade secrets. The secrecy of such trade secrets and other sensitive",
+      "importance_rank": 37
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 48,
+      "section_title": "Risks Related to our Industry",
+      "importance_rank": 38
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 49,
+      "section_title": "user data could result in government and legal exposure, seriously harm our reputation, brand, and business, and impair our ability",
+      "importance_rank": 39
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 50,
+      "section_title": "We may also be unsuccessful in our efforts to enforce our policies or otherwise prevent or remediate any such incidents. Any of the",
+      "importance_rank": 40
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 54,
+      "section_title": "Risks Related to Ownership of our Stock",
+      "importance_rank": 41
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 55,
+      "section_title": "General Risks",
+      "importance_rank": 42
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 56,
+      "section_title": "Our failure to address these risks or other problems encountered in connection with our past or future acquisitions and other strategic",
+      "importance_rank": 43
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 57,
+      "section_title": "ITEM\u00a01B.",
+      "importance_rank": 44
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 62,
+      "section_title": "Revenues and Monetization Metrics",
+      "importance_rank": 45
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 63,
+      "section_title": "Google Advertising",
+      "importance_rank": 46
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 64,
+      "section_title": "Costs and Expenses",
+      "importance_rank": 47
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 65,
+      "section_title": "Executive Overview",
+      "importance_rank": 48
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 66,
+      "section_title": "Financial Results",
+      "importance_rank": 49
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 67,
+      "section_title": "Google Services",
+      "importance_rank": 50
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 68,
+      "section_title": "Google Cloud",
+      "importance_rank": 51
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 69,
+      "section_title": "Costs and Expenses",
+      "importance_rank": 52
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 70,
+      "section_title": "SALES AND MARKETING",
+      "importance_rank": 53
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 71,
+      "section_title": "Financial Condition",
+      "importance_rank": 54
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 72,
+      "section_title": "Liquidity and Material Cash Requirements",
+      "importance_rank": 55
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 73,
+      "section_title": "Leases",
+      "importance_rank": 56
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 74,
+      "section_title": "Critical Accounting Estimates",
+      "importance_rank": 57
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 76,
+      "section_title": "ITEM\u00a07A.",
+      "importance_rank": 58
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 77,
+      "section_title": "Equity Investment Risk",
+      "importance_rank": 59
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 79,
+      "section_title": "REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+      "importance_rank": 60
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 81,
+      "section_title": "REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+      "importance_rank": 61
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 86,
+      "section_title": "Alphabet Inc.",
+      "importance_rank": 62
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 87,
+      "section_title": "Alphabet Inc.",
+      "importance_rank": 63
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 89,
+      "section_title": "Cost of Revenues",
+      "importance_rank": 64
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 92,
+      "section_title": "Inventory",
+      "importance_rank": 65
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 93,
+      "section_title": "Long-Lived Assets, Goodwill and Other Acquired Intangible Assets",
+      "importance_rank": 66
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 95,
+      "section_title": "Note 3.",
+      "importance_rank": 67
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 96,
+      "section_title": "INVESTMENTS MEASURED AT FAIR VALUE ON A NONRECURRING BASIS",
+      "importance_rank": 68
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 97,
+      "section_title": "Debt Securities",
+      "importance_rank": 69
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 99,
+      "section_title": "Derivative Financial Instruments",
+      "importance_rank": 70
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 103,
+      "section_title": "Note 4.",
+      "importance_rank": 71
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 105,
+      "section_title": "Note 6.",
+      "importance_rank": 72
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 107,
+      "section_title": "Accumulated Other Comprehensive Income (Loss)",
+      "importance_rank": 73
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 110,
+      "section_title": "Note 10.",
+      "importance_rank": 74
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 112,
+      "section_title": "Note 11.",
+      "importance_rank": 75
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 116,
+      "section_title": "Note 14.",
+      "importance_rank": 76
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 118,
+      "section_title": "Uncertain Tax Positions",
+      "importance_rank": 77
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 119,
+      "section_title": "Note 15.",
+      "importance_rank": 78
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 121,
+      "section_title": "ITEM\u00a09A.",
+      "importance_rank": 79
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 122,
+      "section_title": "PART III",
+      "importance_rank": 80
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 124,
+      "section_title": "3. Exhibits",
+      "importance_rank": 81
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 125,
+      "section_title": "Form of Global Note representing the Registrant\u2019s 2.050%",
+      "importance_rank": 82
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 126,
+      "section_title": "ITEM\u00a016.",
+      "importance_rank": 83
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 96,
+      "section_title": "CORPORATE GOVERNANCE REPORT",
+      "importance_rank": 1
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 108,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 2
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 129,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 3
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 82,
+      "section_title": "CORPORATE GOVERNANCE REPORT",
+      "importance_rank": 4
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 87,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 5
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 88,
+      "section_title": "CORPORATE GOVERNANCE REPORT",
+      "importance_rank": 6
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 95,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 7
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 101,
+      "section_title": "Shareholders\u2019 Rights",
+      "importance_rank": 8
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 109,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 9
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 119,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 10
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 127,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 11
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 128,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 12
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 131,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 13
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 138,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 14
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 144,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 15
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 146,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 16
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 157,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 17
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 159,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 18
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 167,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 19
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 168,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 20
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 197,
+      "section_title": "NOTES TO THE CONSOLIDATED",
+      "importance_rank": 21
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 320,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 22
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 2,
+      "section_title": "This annual report (in both English and Chinese versions)",
+      "importance_rank": 23
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 3,
+      "section_title": "CONTENTS",
+      "importance_rank": 24
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 6,
+      "section_title": "CORPORATE",
+      "importance_rank": 25
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 10,
+      "section_title": "CHAIRMAN\u2019S",
+      "importance_rank": 26
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 11,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 27
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 12,
+      "section_title": "CHAIRMAN\u2019S STATEMENT",
+      "importance_rank": 28
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 13,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 29
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 14,
+      "section_title": "CHAIRMAN\u2019S STATEMENT",
+      "importance_rank": 30
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 15,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 31
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 16,
+      "section_title": "CHAIRMAN\u2019S STATEMENT",
+      "importance_rank": 32
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 24,
+      "section_title": "MANAGEMENT DISCUSSION AND ANALYSIS",
+      "importance_rank": 33
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 25,
+      "section_title": "Net Cash Generated From Investing Activities",
+      "importance_rank": 34
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 28,
+      "section_title": "MANAGEMENT DISCUSSION AND ANALYSIS",
+      "importance_rank": 35
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 30,
+      "section_title": "MANAGEMENT DISCUSSION AND ANALYSIS",
+      "importance_rank": 36
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 31,
+      "section_title": "Foreign Exchange Risk",
+      "importance_rank": 37
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 35,
+      "section_title": "Share Schemes",
+      "importance_rank": 38
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 38,
+      "section_title": "DIRECTOR\u2019S REPORT",
+      "importance_rank": 39
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 47,
+      "section_title": "Directors and Senior Management",
+      "importance_rank": 40
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 48,
+      "section_title": "DIRECTOR\u2019S REPORT",
+      "importance_rank": 41
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 49,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 42
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 50,
+      "section_title": "DIRECTOR\u2019S REPORT",
+      "importance_rank": 43
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 51,
+      "section_title": "Biographical Details of Senior Management",
+      "importance_rank": 44
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 52,
+      "section_title": "DIRECTOR\u2019S REPORT",
+      "importance_rank": 45
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 54,
+      "section_title": "DIRECTOR\u2019S REPORT",
+      "importance_rank": 46
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 59,
+      "section_title": "Permitted Indemnity Provision",
+      "importance_rank": 47
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 62,
+      "section_title": "DIRECTOR\u2019S REPORT",
+      "importance_rank": 48
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 63,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 49
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 66,
+      "section_title": "DIRECTOR\u2019S REPORT",
+      "importance_rank": 50
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 67,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 51
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 73,
+      "section_title": "Major Customers and Suppliers",
+      "importance_rank": 52
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 74,
+      "section_title": "DIRECTOR\u2019S REPORT",
+      "importance_rank": 53
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 75,
+      "section_title": "Environmental Policies and Performance",
+      "importance_rank": 54
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 76,
+      "section_title": "DIRECTOR\u2019S REPORT",
+      "importance_rank": 55
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 77,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 56
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 78,
+      "section_title": "DIRECTOR\u2019S REPORT",
+      "importance_rank": 57
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 79,
+      "section_title": "Audit Committee",
+      "importance_rank": 58
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 80,
+      "section_title": "CORPORATE",
+      "importance_rank": 59
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 81,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 60
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 83,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 61
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 84,
+      "section_title": "CORPORATE GOVERNANCE REPORT",
+      "importance_rank": 62
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 85,
+      "section_title": "Board Committees",
+      "importance_rank": 63
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 86,
+      "section_title": "CORPORATE GOVERNANCE REPORT",
+      "importance_rank": 64
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 90,
+      "section_title": "CORPORATE GOVERNANCE REPORT",
+      "importance_rank": 65
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 91,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 66
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 92,
+      "section_title": "CORPORATE GOVERNANCE REPORT",
+      "importance_rank": 67
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 93,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 68
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 94,
+      "section_title": "CORPORATE GOVERNANCE REPORT",
+      "importance_rank": 69
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 97,
+      "section_title": "Directors\u2019 Responsibilities in Respect of the Financial Statements",
+      "importance_rank": 70
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 98,
+      "section_title": "CORPORATE GOVERNANCE REPORT",
+      "importance_rank": 71
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 99,
+      "section_title": "Communications with Shareholders and Investor Relations",
+      "importance_rank": 72
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 100,
+      "section_title": "CORPORATE GOVERNANCE REPORT",
+      "importance_rank": 73
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 102,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND",
+      "importance_rank": 74
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 103,
+      "section_title": "Governance and Compliance",
+      "importance_rank": 75
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 104,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 76
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 105,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 77
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 107,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 78
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 110,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 79
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 112,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 80
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 113,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 81
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 114,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 82
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 115,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 83
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 116,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 84
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 117,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 85
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 118,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 86
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 120,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 87
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 121,
+      "section_title": "Exploration and Accessibility of Technology",
+      "importance_rank": 88
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 122,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 89
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 123,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 90
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 126,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 91
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 130,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 92
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 133,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 93
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 134,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 94
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 135,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 95
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 136,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 96
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 137,
+      "section_title": "Creating Shared Success",
+      "importance_rank": 97
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 139,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 98
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 141,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 99
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 142,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 100
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 143,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 101
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 147,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 102
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 150,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 103
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 151,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 104
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 152,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 105
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 154,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 106
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 155,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 107
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 158,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 108
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 161,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 109
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 163,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 110
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 164,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 111
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 169,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 112
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 172,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 113
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 174,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 114
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 175,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 115
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 177,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 116
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 178,
+      "section_title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT",
+      "importance_rank": 117
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 179,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 118
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 180,
+      "section_title": "INDEPENDENT",
+      "importance_rank": 119
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 181,
+      "section_title": "INDEPENDENT AUDITOR\u2019S REPORT",
+      "importance_rank": 120
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 182,
+      "section_title": "INDEPENDENT AUDITOR\u2019S REPORT",
+      "importance_rank": 121
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 183,
+      "section_title": "INDEPENDENT AUDITOR\u2019S REPORT",
+      "importance_rank": 122
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 184,
+      "section_title": "INDEPENDENT AUDITOR\u2019S REPORT",
+      "importance_rank": 123
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 185,
+      "section_title": "INDEPENDENT AUDITOR\u2019S REPORT",
+      "importance_rank": 124
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 186,
+      "section_title": "INDEPENDENT AUDITOR\u2019S REPORT",
+      "importance_rank": 125
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 195,
+      "section_title": "CONSOLIDATED STATEMENT OF",
+      "importance_rank": 126
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 196,
+      "section_title": "CONSOLIDATED STATEMENT OF CASH FLOWS",
+      "importance_rank": 127
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 202,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 128
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 204,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 129
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 205,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 130
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 206,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 131
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 207,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 132
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 208,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 133
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 209,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 134
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 210,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 135
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 213,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 136
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 214,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 137
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 215,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 138
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 216,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 139
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 217,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 140
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 219,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 141
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 220,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 142
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 221,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 143
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 222,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 144
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 223,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 145
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 224,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 146
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 226,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 147
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 227,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 148
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 231,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 149
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 237,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 150
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 240,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 151
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 243,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 152
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 244,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 153
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 246,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 154
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 247,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 155
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 248,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 156
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 257,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 157
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 258,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 158
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 259,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 159
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 262,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 160
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 263,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 161
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 265,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 162
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 269,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 163
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 270,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 164
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 271,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 165
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 278,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 166
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 286,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 167
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 287,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 168
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 288,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 169
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 291,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 170
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 294,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 171
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 295,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 172
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 304,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 173
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 307,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 174
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 311,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 175
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 313,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 176
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 317,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 177
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 319,
+      "section_title": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+      "importance_rank": 178
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 329,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 179
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 331,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 180
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 333,
+      "section_title": "2022 ANNUAL REPORT",
+      "importance_rank": 181
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 334,
+      "section_title": "DEFINITIONS",
+      "importance_rank": 182
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 129,
+      "section_title": "to the collection, use, retention, security or disclosure of personal information or other privacy-related matters, including",
+      "importance_rank": 1
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 22,
+      "section_title": "Dear NVIDIANs",
+      "importance_rank": 2
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 25,
+      "section_title": "NVIDIA AI for Every",
+      "importance_rank": 3
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 41,
+      "section_title": "Expressway, Santa Clara, California, for 10 days prior to the 2024 Meeting to registered stockholders for any legally valid",
+      "importance_rank": 4
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 97,
+      "section_title": "Proposal 4\u2014Stockholder Proposal: Simple Majority Vote",
+      "importance_rank": 5
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 99,
+      "section_title": "Equity Compensation Plan Information",
+      "importance_rank": 6
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 107,
+      "section_title": "We are working with several hundred partners in the automotive ecosystem including automakers, truck makers, tier-one",
+      "importance_rank": 7
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 108,
+      "section_title": "tier-1 suppliers, and start-ups. Our AV solution also includes the GPU-based hardware required to train the neural",
+      "importance_rank": 8
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 111,
+      "section_title": "or generate enough renewable energy to match 100% of our global electricity usage for our offices and data centers. In",
+      "importance_rank": 9
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 116,
+      "section_title": "commitments for capacity to address our business needs, or our long-term demand expectations may change. These",
+      "importance_rank": 10
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 117,
+      "section_title": "transitions, and we may be unable to sell multiple product architectures at the same time for current and future",
+      "importance_rank": 11
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 118,
+      "section_title": "GPUs, which could negatively impact retail prices for our GPUs and reduce demand for our new GPUs. In general, our new",
+      "importance_rank": 12
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 120,
+      "section_title": "Adverse developments affecting financial institutions, such as bank failures or instability, or concerns or speculation",
+      "importance_rank": 13
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 121,
+      "section_title": "past and may happen in the future), our response may be limited or more difficult because we may not have direct access",
+      "importance_rank": 14
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 123,
+      "section_title": "harmed, future acquisitions may be more difficult, complex or expensive. Further, our investments in publicly traded",
+      "importance_rank": 15
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 127,
+      "section_title": "disadvantage NVIDIA against certain of our competitors who sell products that are not subject to the new restrictions or",
+      "importance_rank": 16
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 128,
+      "section_title": "regulator or other industry stakeholder expectations, or we may fail to meet corporate sustainability disclosure or",
+      "importance_rank": 17
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 130,
+      "section_title": "Data protection laws around the world are quickly changing and may be interpreted and applied in an increasingly",
+      "importance_rank": 18
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 137,
+      "section_title": "Critical Accounting Estimates",
+      "importance_rank": 19
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 159,
+      "section_title": "Goodwill",
+      "importance_rank": 20
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 172,
+      "section_title": "Note 12 - Debt",
+      "importance_rank": 21
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 3,
+      "section_title": "\u201cThe sum of all that",
+      "importance_rank": 22
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 5,
+      "section_title": "\u201cThey basically have",
+      "importance_rank": 23
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 6,
+      "section_title": "\u201cContinually",
+      "importance_rank": 24
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 9,
+      "section_title": "\u201cNVIDIA\u2019s got great",
+      "importance_rank": 25
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 12,
+      "section_title": "\u201cNVIDIA has virtually",
+      "importance_rank": 26
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 18,
+      "section_title": "\u201cNVIDIA Omniverse",
+      "importance_rank": 27
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 23,
+      "section_title": "Build a new ecosystem for the AI era",
+      "importance_rank": 28
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 24,
+      "section_title": "NVIDIA Accelerated",
+      "importance_rank": 29
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 26,
+      "section_title": "Supercharging Health",
+      "importance_rank": 30
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 27,
+      "section_title": "Steering Automotive Growth",
+      "importance_rank": 31
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 28,
+      "section_title": "A Defining Year and the",
+      "importance_rank": 32
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 29,
+      "section_title": "NVIDIA Corporation",
+      "importance_rank": 33
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 30,
+      "section_title": "NOTICE OF 2024 ANNUAL MEETING OF STOCKHOLDERS",
+      "importance_rank": 34
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 31,
+      "section_title": "NVIDIA Corporation",
+      "importance_rank": 35
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 32,
+      "section_title": "DEFINITIONS",
+      "importance_rank": 36
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 34,
+      "section_title": "Business Highlights",
+      "importance_rank": 37
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 36,
+      "section_title": "Recent Refreshment, Board Demographics, and Nominee Qualifications",
+      "importance_rank": 38
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 37,
+      "section_title": "Corporate Governance Highlights",
+      "importance_rank": 39
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 38,
+      "section_title": "Financial Performance and Link to Executive Pay",
+      "importance_rank": 40
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 39,
+      "section_title": "Corporate Sustainability",
+      "importance_rank": 41
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 42,
+      "section_title": "Vote Count",
+      "importance_rank": 42
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 44,
+      "section_title": "Proposal 1\u2014Election of Directors",
+      "importance_rank": 43
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 45,
+      "section_title": "Director Qualifications and Nomination of Directors",
+      "importance_rank": 44
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 46,
+      "section_title": "Below are the skills, competencies, and attributes that our Board considers important for our directors to have,",
+      "importance_rank": 45
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 47,
+      "section_title": "Our Board believes that having a diverse mix of directors with complementary qualifications, expertise and attributes is",
+      "importance_rank": 46
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 48,
+      "section_title": "ROBERT K. BURGESS",
+      "importance_rank": 47
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 50,
+      "section_title": "JEN-HSUN HUANG",
+      "importance_rank": 48
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 51,
+      "section_title": "HARVEY C. JONES",
+      "importance_rank": 49
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 52,
+      "section_title": "STEPHEN C. NEAL",
+      "importance_rank": 50
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 53,
+      "section_title": "AARTI SHAH",
+      "importance_rank": 51
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 54,
+      "section_title": "Information About the Board of Directors and Corporate Governance",
+      "importance_rank": 52
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 55,
+      "section_title": "assessment, and management of the Company\u2019s exposure to various risks as a result of his extensive risk management,",
+      "importance_rank": 53
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 56,
+      "section_title": "Committees of the Board of Directors",
+      "importance_rank": 54
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 57,
+      "section_title": "Current Members",
+      "importance_rank": 55
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 58,
+      "section_title": "Role of the Board in Risk Oversight",
+      "importance_rank": 56
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 59,
+      "section_title": "committees, including key risks, and the committees work together with the full Board to facilitate the receipt of the",
+      "importance_rank": 57
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 60,
+      "section_title": "Director Attendance at Annual Meeting",
+      "importance_rank": 58
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 61,
+      "section_title": "Outside Advisors",
+      "importance_rank": 59
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 62,
+      "section_title": "least one year, to request a special meeting of stockholders, provided that the stockholders satisfy the disclosure, timing",
+      "importance_rank": 60
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 63,
+      "section_title": "Corporate Sustainability",
+      "importance_rank": 61
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 64,
+      "section_title": "Compensation, Benefits, and Well-Being",
+      "importance_rank": 62
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 65,
+      "section_title": "We are a full member of the RBA, an international industry organization dedicated to corporate social responsibility in",
+      "importance_rank": 63
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 66,
+      "section_title": "Director Compensation",
+      "importance_rank": 64
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 67,
+      "section_title": "The following table provides information regarding the aggregate number of unvested RSUs held by each of our non-",
+      "importance_rank": 65
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 72,
+      "section_title": "Executive Compensation",
+      "importance_rank": 66
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 73,
+      "section_title": "opportunity, the CC set both the Fiscal 2024 Non-GAAP Gross Margin Threshold and the Stretch Compensation Plan",
+      "importance_rank": 67
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 74,
+      "section_title": "How We Determine Executive Compensation",
+      "importance_rank": 68
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 75,
+      "section_title": "to us and should be included in the peer group because we compete with them for talent and because they have",
+      "importance_rank": 69
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 76,
+      "section_title": "Total Target Compensation Approach",
+      "importance_rank": 70
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 77,
+      "section_title": "Components of Pay",
+      "importance_rank": 71
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 78,
+      "section_title": "SY PSUs would be eligible to vest, equivalent to 20% of our NEOs\u2019 respective SY PSU target equity opportunities.  In",
+      "importance_rank": 72
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 79,
+      "section_title": "Each of the performance goal levels as described above were set by the CC with the following objectives:",
+      "importance_rank": 73
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 82,
+      "section_title": "Additional Executive Compensation Practices, Policies, and Procedures",
+      "importance_rank": 74
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 84,
+      "section_title": "Risk Analysis of Our Compensation Plans",
+      "importance_rank": 75
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 88,
+      "section_title": "Option Exercises and Stock Vested in Fiscal 2024",
+      "importance_rank": 76
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 89,
+      "section_title": "Potential Payments Upon Termination or Change-in-Control",
+      "importance_rank": 77
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 90,
+      "section_title": "After applying the methodology described above, we determined the identity of our median employee for Fiscal 2024,",
+      "importance_rank": 78
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 91,
+      "section_title": "Most Important Financial Performance Measures",
+      "importance_rank": 79
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 92,
+      "section_title": "Relationships Between CAP and Financial Performance",
+      "importance_rank": 80
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 94,
+      "section_title": "Proposal 3\u2014Ratification of the Selection of Independent Registered Public Accounting Firm for Fiscal 2025",
+      "importance_rank": 81
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 96,
+      "section_title": "Report of the Audit Committee of the Board of Directors",
+      "importance_rank": 82
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 98,
+      "section_title": "Board Statement in Response to Proposal 4",
+      "importance_rank": 83
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 101,
+      "section_title": "FORM 10-K",
+      "importance_rank": 84
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 102,
+      "section_title": "NVIDIA Corporation",
+      "importance_rank": 85
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 103,
+      "section_title": "Where You Can Find More Information",
+      "importance_rank": 86
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 104,
+      "section_title": "Part I",
+      "importance_rank": 87
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 105,
+      "section_title": "Researchers and developers use our computing solutions to accelerate a wide range of important applications, from",
+      "importance_rank": 88
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 106,
+      "section_title": "At the foundation of the NVIDIA accelerated computing platform are our GPUs, which excel at parallel workloads such as",
+      "importance_rank": 89
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 109,
+      "section_title": "Competition",
+      "importance_rank": 90
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 110,
+      "section_title": "Government Regulations",
+      "importance_rank": 91
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 112,
+      "section_title": "Our support is enhanced during times of crisis, such as war or economic volatility, to take care of our existing team of",
+      "importance_rank": 92
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 113,
+      "section_title": "Item 1A. Risk Factors",
+      "importance_rank": 93
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 114,
+      "section_title": "International sales and operations are a significant part of our business, which exposes us to risks that could",
+      "importance_rank": 94
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 115,
+      "section_title": "develop or acquire new products and technologies through investments in research and development;",
+      "importance_rank": 95
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 119,
+      "section_title": "training data that may originate from third parties and new training methods, and the resulting products may contain",
+      "importance_rank": 96
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 122,
+      "section_title": "We are monitoring the impact of the geopolitical conflict in and around Israel on our operations, including the health and",
+      "importance_rank": 97
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 124,
+      "section_title": "Compute & Networking segment. If end demand increases or our finished goods supply availability is concentrated near a",
+      "importance_rank": 98
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 125,
+      "section_title": "Risks Related to Regulatory, Legal, Our Stock and Other Matters",
+      "importance_rank": 99
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 126,
+      "section_title": "products, and it is likely that additional unilateral or multilateral controls will be adopted. Such controls have been and",
+      "importance_rank": 100
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 131,
+      "section_title": "Item 1B. Unresolved Staff Comments",
+      "importance_rank": 101
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 132,
+      "section_title": "Item 2. Properties",
+      "importance_rank": 102
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 134,
+      "section_title": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+      "importance_rank": 103
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 135,
+      "section_title": "Global Trade",
+      "importance_rank": 104
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 136,
+      "section_title": "Fiscal Year 2024 Summary",
+      "importance_rank": 105
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 138,
+      "section_title": "Results of Operations",
+      "importance_rank": 106
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 140,
+      "section_title": "All Other operating loss",
+      "importance_rank": 107
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 141,
+      "section_title": "Other Income (Expense), Net",
+      "importance_rank": 108
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 142,
+      "section_title": "Liquidity and Capital Resources",
+      "importance_rank": 109
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 143,
+      "section_title": "Item 7A. Quantitative and Qualitative Disclosures about Market Risk",
+      "importance_rank": 110
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 144,
+      "section_title": "Item\u00a08. Financial Statements and Supplementary Data",
+      "importance_rank": 111
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 145,
+      "section_title": "Item\u00a09B.\u00a0\u00a0Other Information",
+      "importance_rank": 112
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 146,
+      "section_title": "Item 11. Executive Compensation",
+      "importance_rank": 113
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 147,
+      "section_title": "Part IV",
+      "importance_rank": 114
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 148,
+      "section_title": "Report of Independent Registered Public Accounting Firm",
+      "importance_rank": 115
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 149,
+      "section_title": "Critical Audit Matters",
+      "importance_rank": 116
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 155,
+      "section_title": "Note 1 - Organization and Summary of Significant Accounting Policies",
+      "importance_rank": 117
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 156,
+      "section_title": "License and Development Arrangements",
+      "importance_rank": 118
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 157,
+      "section_title": "or other third-party claims against us will be resolved without litigation, fines and/or substantial settlement payments or",
+      "importance_rank": 119
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 158,
+      "section_title": "we intend to sell the securities before recovery of its amortized cost basis. Allowances for credit losses and write-downs",
+      "importance_rank": 120
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 160,
+      "section_title": "Note 2 - Business Combination",
+      "importance_rank": 121
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 161,
+      "section_title": "Note 4 - Stock-Based Compensation",
+      "importance_rank": 122
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 162,
+      "section_title": "The fair value of shares issued under our ESPP have been estimated with the following assumptions:",
+      "importance_rank": 123
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 165,
+      "section_title": "Note 8 - Cash Equivalents and Marketable Securities",
+      "importance_rank": 124
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 166,
+      "section_title": "The following tables provide the breakdown of unrealized losses, aggregated by investment category and length of time",
+      "importance_rank": 125
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 167,
+      "section_title": "Note 9 - Fair Value of Financial Assets and Liabilities and Investments in Non-Affiliated Entities",
+      "importance_rank": 126
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 171,
+      "section_title": "Note 11 - Derivative Financial Instruments",
+      "importance_rank": 127
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 174,
+      "section_title": "resolution of the matter. On December 5, 2023, the Ninth Circuit granted NVIDIA\u2019s motion to stay the mandate. NVIDIA\u2019s",
+      "importance_rank": 128
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 175,
+      "section_title": "Note 14 - Income Taxes",
+      "importance_rank": 129
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 177,
+      "section_title": "Note 15 - Shareholders\u2019 Equity",
+      "importance_rank": 130
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 178,
+      "section_title": "Note 16 - Employee Retirement Plans",
+      "importance_rank": 131
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 182,
+      "section_title": "Exhibit Index",
+      "importance_rank": 132
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 183,
+      "section_title": "Item\u00a016. Form 10-K Summary",
+      "importance_rank": 133
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 186,
+      "section_title": "Corporate Information",
+      "importance_rank": 134
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "AR1.pdf",
+      "page": 4,
+      "refined_text": "2\nContents\n4  \nDelivering products  \nbuilt to help \n12  \nBuilding trust  \nby building a safer \ndigital world\n \n16  \nHelping our  \ncustomers and partners \nevolve and grow\n \n19  \nOur commitments\n \n20  \nSupporting economic \nresilience for  \npeople, communities,  \nand businesses\n \n24  \nAdvancing equity  \nand inclusion\n \n28  \nTaking on the  \nclimate crisis\n \n31  \nOther Bets\n \nInside back cover  \nDirectors and  \nexecutive officers\nCloud and Workspace. We also launched Bard, an early \nexperiment for people to collaborate with generative AI. \nIt\u2019s one way we are giving users direct access to large \nlanguage models, and part of a natural journey where \nwe\u2019ll continue to iterate and make progress.\nAI is also helping us to find solutions to some of the \nworld\u2019s biggest problems. We partnered with iCad to \nlicense our mammography technology for breast cancer \nscreenings, which is being used in clinics for the first \ntime. DeepMind\u2019s AlphaFold database grew by orders  \nof magnitude, expanding from about one million to  \n200 million structures. One million researchers have \nused it around the world to help solve problems in \nsustainability, drug discovery, human biology, and more.\nBeyond AI, we\u2019re excited about the continued momentum \nacross our businesses. Just a few examples: YouTube \nPremium is now up to 80 million paying subscribers and \ntrialers, an increase of 30 million from the year before. \nAnd YouTube Shorts is now averaging more than 50 billion \ndaily views. We introduced our newest lineup of Pixel \ndevices, and our Pixel 6a, Pixel 7, and Pixel 7 Pro are the \nbest-selling generation of phones we\u2019ve ever launched. \nAnd we continue to open cloud regions and invest in data \ncenters around the world, including our first-ever data \ncenter in Japan.\nIn September, Google will turn 25. I am grateful to our \nemployees, partners, and shareholders everywhere who \nhave made this milestone possible, and look forward to \nwhat the next year \u2013 and quarter century \u2013 will bring.\nSundar Pichai \nCEO of Alphabet and Google"
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 44,
+      "refined_text": "6\nALPHABET INC. \u25cf ANNUAL REPORT\nPART I\nITEM\u00a01A\u00a0\u00a0RISK FACTORS\n\u2014 \nITEM\u00a01A. RISK FACTORS\nOur operations and financial results are subject to various risks and uncertainties, including but not limited to those described below, \nwhich could harm our business, reputation, financial condition, and operating results, and affect the trading price of our Class A and \nClass C stock.\nRisks Specific to our Company\nWe generate a significant portion of our revenues from advertising. Reduced spending by advertisers, a loss of partners, or new \nand existing technologies that block ads online and/or affect our ability to customize ads could harm our business. \nWe generated more than 80% of total revenues from online advertising in 2022. Many of our advertisers, companies that distribute \nour products and services, digital publishers, and content providers can terminate their contracts with us at any time. These partners \nmay not continue to do business with us if we do not create more value (such as increased numbers of users or customers, new \nsales leads, increased brand awareness, or more effective monetization) than their available alternatives. Changes to our advertising \npolicies and data privacy practices, as well as changes to other companies\u2019 advertising and/or data privacy practices have in the \npast, and may in the future, affect the advertising that we are able to provide. In addition, technologies have been developed that \nmake customized ads more difficult or that block the display of ads altogether, and some providers of online services have integrated \nthese technologies that could potentially impair the availability and functionality of third-party digital advertising. Failing to provide \nsuperior value or deliver advertisements effectively and competitively could harm our business, reputation, financial condition, and \noperating results. \nIn addition, expenditures by advertisers tend to correlate with overall economic conditions. Adverse macroeconomic conditions have \naffected, and may in the future affect, the demand for advertising, resulting in fluctuations in the amounts our advertisers spend on \nadvertising, which could harm our financial condition and operating results. \nWe face intense competition. If we do not continue to innovate and provide products and services that are useful to users, \ncustomers, and other partners, we may not remain competitive, which could harm our business, financial condition, and \noperating results. \nOur business environment is rapidly evolving and intensely competitive. Our businesses face changing technologies, shifting user \nneeds, and frequent introductions of rival products and services. To compete successfully, we must accurately anticipate technology \ndevelopments and deliver innovative, relevant and useful products, services, and technologies in a timely manner. As our businesses \nevolve, the competitive pressure to innovate will encompass a wider range of products and services. We must continue to invest significant \nresources in R&D, including through acquisitions, in order to enhance our technology and new and existing products and services. \nWe have many competitors in different industries. Our current and potential domestic and international competitors range from \nlarge and established companies to emerging start-ups. Some competitors have longer operating histories and well established \nrelationships in various sectors. They can use their experience and resources in ways that could affect our competitive position, \nincluding by making acquisitions, continuing to invest heavily in R&D and in talent, initiating intellectual property and competition \nclaims (whether or not meritorious), and continuing to compete for users, advertisers, customers, and content providers. Further, \ndiscrepancies in enforcement of existing laws may enable our lesser known competitors to aggressively interpret those laws without \ncommensurate scrutiny, thereby affording them competitive advantages. Our competitors may also be able to innovate and provide \nproducts and services faster than we can or may foresee the need for products and services before us. \nOur financial condition and operating results may also suffer if our products and services are not responsive to the evolving needs \nand desires of our users, advertisers, publishers, customers, and content providers. As new and existing technologies continue to \ndevelop, competitors and new entrants may be able to offer experiences that are, or that are seen to be, substantially similar to or \nbetter than ours. These technologies could reduce usage of our products and services, and force us to compete in different ways \nand expend significant resources to develop and operate equal or better products and services. Competitors\u2019 success in providing \ncompelling products and services or in attracting and retaining users, advertisers, publishers, customers, and content providers could \nharm our financial condition and operating results. \nOur ongoing investment in new businesses, products, services, and technologies is inherently risky, and could divert \nmanagement attention and harm our business, financial condition, and operating results. \nWe have invested and expect to continue to invest in new businesses, products, services, and technologies. The investments that we \nare making across our businesses, such as in AI, reflect our ongoing efforts to innovate and provide products and services that are \nuseful to users, advertisers, publishers, customers, and content providers. Our investments span a wide range of industries beyond"
+    },
+    {
+      "document": "AR1.pdf",
+      "page": 47,
+      "refined_text": "9\nALPHABET INC. \u25cf ANNUAL REPORT\nPART I\nITEM\u00a01A\u00a0\u00a0RISK FACTORS\nOur products and services have had, and in the future may have, quality issues resulting from design, manufacturing, or operations. \nSometimes, these issues may be caused by components we purchase from other manufacturers or suppliers. If the quality of our \nproducts and services does not meet expectations or our products or services are defective, it could harm our reputation, financial \ncondition, and operating results. \nWe require our suppliers and business partners to comply with laws and, where applicable, our company policies and practices, such \nas the Google Supplier Code of Conduct, regarding workplace and employment practices, data security, environmental compliance, \nand intellectual property licensing, but we do not control them or their practices. Violations of law or unethical business practices \ncould result in supply chain disruptions, canceled orders, harm to key relationships, and damage to our reputation. Their failure to \nprocure necessary license rights to intellectual property could affect our ability to sell our products or services and expose us to \nlitigation or financial claims. \nInterruption to, interference with, or failure of our complex information technology and communications systems could hurt our \nability to effectively provide our products and services, which could harm our reputation, financial condition, and operating results. \nThe availability of our products and services and fulfillment of our customer contracts depend on the continuing operation of our \ninformation technology and communications systems. Our systems are vulnerable to damage, interference, or interruption from \nmodifications or upgrades, terrorist attacks, state-sponsored attacks, natural disasters or pandemics, geopolitical tensions or armed \nconflicts, the effects of climate change (such as sea level rise, drought, flooding, heat waves, wildfires and resultant air quality effects \nand power shutoffs associated with wildfire prevention, and increased storm severity), power loss, telecommunications failures, \ncomputer viruses, software bugs, ransomware attacks, computer denial of service attacks, phishing schemes, or other attempts to \nharm or access our systems. Some of our data centers are located in areas with a high risk of major earthquakes or other natural \ndisasters. Our data centers are also subject to break-ins, sabotage, and intentional acts of vandalism, and, in some cases, to potential \ndisruptions resulting from problems experienced by facility operators or disruptions as a result of geopolitical tensions and conflicts \nhappening in the area. Some of our systems are not fully redundant, and disaster recovery planning cannot account for all eventualities. \nThe occurrence of a natural disaster or pandemic, closure of a facility, or other unanticipated problems affecting our data centers \ncould result in lengthy interruptions in our service. In addition, our products and services are highly technical and complex and have \ncontained in the past, and may contain in the future, errors or vulnerabilities, which could result in interruptions in or failure of our \nservices or systems. Any of these incidents could impede or prevent us from effectively offering products and providing services, \nwhich could harm our reputation, financial condition, and operating results. \nOur international operations expose us to additional risks that could harm our business, financial condition, and operating results.\nOur international operations are significant to our revenues and net income, and we plan to continue to grow internationally. International \nrevenues accounted for approximately 51% of our consolidated revenues in 2022. In addition to risks described elsewhere in this \nsection, our international operations expose us to other risks, including the following:\n \nz restrictions on foreign ownership and investments, and stringent foreign exchange controls that might prevent us from repatriating \ncash earned in countries outside the U.S.;\n \nz import and export requirements, tariffs, and other market access barriers that may prevent or impede us from offering products or \nproviding services to a particular market, or that could limit our ability to source assemblies and finished products from a particular \nmarket, and may increase our operating costs;\n \nz longer payment cycles in some countries, increased credit risk, and higher levels of payment fraud;\n \nz an evolving foreign policy landscape that may adversely affect our revenues and could subject us to new regulatory costs and \nchallenges (including new customer requirements), in addition to other adverse effects that we are unable to effectively anticipate;\n \nz sanctions, export controls, and trade restrictions that limit our ability to operate in certain jurisdictions or to comply with local laws, \nincluding as a result of geopolitical tensions or armed conflicts, such as the ongoing conflict in Ukraine;\n \nz political unrest, conflict, and changes in governmental regimes that may adversely affect demand and usage of our products and \nservices, may limit the ability for people in certain areas to access and use our products and services, or may impede us from \noffering products or providing services to a particular market; \n \nz anti-corruption laws, such as the U.S. Foreign Corrupt Practices Act, and other local laws prohibiting certain payments to government \nofficials, violations of which could result in civil and criminal penalties;\n \nz uncertainty regarding regulatory outcomes and other liabilities, including uncertainty as a result of local laws, insufficient due \nprocess, and lack of legal precedent; and\n \nz different employee/employer relationships, existence of works councils and labor unions, and other challenges caused by distance, \nlanguage, and cultural differences, making it harder to do business in certain jurisdictions."
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 96,
+      "refined_text": "94\nXIAOMI CORPORATION\nCORPORATE GOVERNANCE REPORT\nWe evaluate various risks, such as global macroeconomic factors, fiscal policies of different countries, tariff \npolicies, foreign exchange rates, inflation and other factors that may affect our supply chain, and actively seeks \nways to increase the strength of our supply chain . We continue to diversify supplier source to reduce the risks \nof uncertainty brought by single source. We expand the capacity of factories in countries like India and Indonesia, \nto address the potential risks associated with a single production base. We establish an alarm system for force \nmajeure events such as natural disasters and public health matters. We set up contingency plans for these \nevents in order to minimize their impact on our supply chain.\n5. Information security and privacy:\nThe Company\u2019s business is highly dependent on information systems and data analysis. Information security \nincidents may have impact on the continuity of business operations. To achieve certain business functionalities and \nimprove user experience, some of our products and services require user data. Compliance with data regulations \nand data security is one of the top priorities of the Company. During the Reporting Period, governments across \nthe world strengthened regulations on internet security and the protection of user information. The management \nrecognized that any non-compliant collection, leakage or inappropriate handling of user data would lead to \nsignificant impacts on users and the Company\u2019s reputation. Furthermore, any leakage of sensitive business data \nof to our competitors may compromise our competitive advantages.\nThe Company\u2019s Data Security and Privacy sub-Committee, which was established under our Technology \nCommittee, is responsible for formulating a data classification system and implementing security measures. It \nis tasked with effectively managing privacy risks through formulating departmental representation mechanisms \nfor business units and deploying an online privacy assessment system to ensure that all major changes undergo \nrisk assessment. The Company has established a surveillance system and feedback process to monitor data \nsecurity incidents and minimize the impact of these incidents on the Company. The Company has also set up a \ncomprehensive training program on data security and privacy for employees, including orientation training for new \nemployees, professional sequence security skills training and system training for information representatives of \nthe business departments.\nThe Company has received the ISO27001, ISO29151 and ISO27018 international security and privacy certifications. \nWe have also filed \u201cNetwork Security Level Protection\u201d document with the Ministry of Public Security of PRC, \nto satisfy the requirements for corporate information security management. The Company released the \u201cMIUI \nSecurity and Privacy White Paper\u201d to share the Company\u2019s practices in data security and user privacy with users \nand the industry."
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 108,
+      "refined_text": "106\nXIAOMI CORPORATION\nENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT\nAnti-bribery and Corruption\nAt Xiaomi, we uphold the principles of openness, fairness, transparency, and integrity, with a zero tolerance \npolicy against bribery and corruption in order to achieve \u201cfull coverage and no restricted area\u201d in anti-corruption \nmanagement. This year, we continued to optimize our governance structure and management policy, as well as scaling \nup anti-corruption training in order to create a positive, healthy and fair working environment. This also included \nconstant updates to our anti-bribery and corruption policies for employees, suppliers, and other business partners. \nFor instance, we revised the Approach to Manage Violation of Business Conduct of Xiaomi Employee to provide a \nclearer classification of acts that violates business conduct, and specify the procedures to ensure accountability. In \naddition, we released a renewed version of the Business Integrity Agreement this year, which has been appended to \nour service agreements with suppliers and business partners as part of their contractual obligations.\nIn 2022, the case involving a former employee of the Company was concluded with the disposition of the offender \nbeing convicted for bribing of non-state functionaries, as stipulated in Article 163 of the Criminal Law of the PRC, and \nwas sentenced to 6-month imprisonment and a fine of RMB10,000.\nFostering Business Integrity\nThis year, we organized a series of employee training that covered the topics of anti-bribery and corruption news, \nlegal requirements and standards, case studies, whistleblowing, and conflict of interest. In March, the entire Board \nof Directors was updated on the progress of integrity management and the outcome of anti-corruption training. We \nrolled out extensive online and offline training sessions to all levels of our employees (management, frontline staff, \nfresh graduates, interns, and part-time employees), and achieved 100% employee coverage. We also provided training \non the aforementioned topics to our suppliers. In 2022, we delivered more than 55,000 hours of training related to \nanti-bribery and corruption, with over 50,000 participants in total.\nWhistleblowing System\nXiaomi has established and implemented a whistleblowing mechanism to ensure that the reports of misconduct \nare being handled in a secure, unimpeded, reliable, and effective manner. This year, we released the Whistleblower \nProtection and Reward Policy of Xiaomi Corporation, which was upgraded based on the previous version of \nWhistleblower Reward Policy of Xiaomi Corporation, to stipulate the protection measures, reward application \nprocedures and channels for whistleblowers, as well as the requirement to manage whistleblowing by an independent \npanel to ensure confidentiality of the reporting channel and location. Employees and other relevant parties can raise \ntheir concerns through the following public channels:\nEmail: tousu@xiaomi.com\nWebsite: https://mi.com/integrity\nAnti-money Laundering\nWe strictly comply with the Anti-money Laundering Law of the PRC and the requirements set out in the Guidelines for \nthe Self-assessment on Risks of Money Laundering and Terrorist Financing of Corporate Financial Institutions issued \nby the People\u2019s Bank of China, and other applicable laws and regulations in regions where we do business, to fulfill \nour obligation as a responsible business in preventing money laundering across boarders and countering terrorist \nfinancing. And in this regard, we took specific measures in accordance with our Detailed Implementation Rules of \nSelf-Assessment of Money Laundering and Terrorist Financing Risks, to monitor and assess suspicious transactions, \nusers, and financing activities through a digitized monitoring system. A joint task force comprising our anti-money \nlaundering (AML) and countering terrorist financing (CTF) team leads the work to prevent, supervise and manage \nmoney laundering and related risks at Xiaomi."
+    },
+    {
+      "document": "AR2.pdf",
+      "page": 129,
+      "refined_text": "127\n2022 ANNUAL REPORT\nOn-site (door-to-door) Services\nWe have expanded our on-site services coverage area by increasing the number of on-site service points \n(infrastructure for product installation, maintenance, and recycling services). As of the end of this reporting period, we \nhave achieved the following:\n\u2022 \nWe have built a total of 2,628 on-site service points in mainland China, representing a 40.4% increase compared \nto 2021. Nearly 16,000 engineers holding Xiaomi professional technical qualifications are employed at these \non-site (door-to-door) service points;\n\u2022 \nThe on-site service capability has covered all urban and rural areas in mainland China.\nDelivery Services\nWe have enhanced the efficiency and quality of our delivery services by optimizing product storage planning, reducing \nproduct delivery turnover times, and increasing direct delivery. During the current year, we have achieved the \nfollowing:\n\u2022 \nIn mainland China, our same-day order fulfillment rate has reached 99.99%, resulting in 85% of orders being \ndelivered within 1 day.\nComplaint Management\nWe aim to swiftly and effectively handle user complaints promptly and efficiently mobilizing internal resources to \nrespond to user complaints. We actively transform every communication with users into positive value and ensure \nthat all types of user issues are accurately, promptly, and reasonably resolved, while continuously improving the \nuser experience process. At the same time, we use multi-channel and multi-dimensional user complaint analysis \nmanagement to conduct reverse effect verification through mechanisms such as improvement program and follow-up \nmechanisms, forming a closed-loop management of user complaints, and promoting the continuous improvement of \nthe user experience.\nOverseas Service Management\nXiaomi conducts business activities in over 100 markets. We continue to implement a strategy of headquarters \nrequirements + localized execution, taking into account Xiaomi\u2019s service quality requirements and local user cultural \nhabits, and assign responsible personnel with engineering expertise for each regional network. This year, we will \ncontinue to promote the development and application of digital service systems, expand the coverage of after-sales \nservices, and improve our overseas service quality by building after-sales service capabilities.\nInformation Technology System Update\nThis year, our integrated overseas service system (Issue to Solution Platform, ISP) has achieved 100% coverage in all \nglobal operating regions. By restructuring the management processes of the customer service, after-sales, and spare \nparts business modules within the system, we have refined management processes and responsibilities down to the \nindividual level, effectively improving the accuracy of service management.\nProduct Delivery\nThis year, we have established Overseas Warehouse Hubs in some overseas regions to store products. By adopting a \nmode of transporting goods to the warehouse location first and then shipping them to customers, we have shortened \nthe delivery time of overseas products. Taking the Spain Hub as an example, the new model has reduced the overall \ndelivery time by approximately 71% compared to the previous method of shipping directly from mainland China to \noverseas locations."
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 129,
+      "refined_text": "to the collection, use, retention, security or disclosure of personal information or other privacy-related matters, including \nfor use in AI, even if unfounded, could damage our reputation and adversely affect our operating results. The theft, loss or \nmisuse of personal data in our possession or by one of our partners could result in damage to our reputation, regulatory \nproceedings, disruption of our business activities or increased security costs and costs related to defending legal claims.\nIn the United States, federal, state and local authorities have enacted numerous data privacy and security laws, including \nfor data breach notification, personal data privacy and consumer protection. In the past few years, numerous U.S. states \nhave enacted comprehensive privacy laws that impose certain obligations on covered businesses, including providing \nspecific disclosures in privacy notices and affording residents with certain rights concerning their personal data. As \napplicable, such rights may include the right to access, correct, or delete certain personal data, and to opt-out of certain \ndata processing activities, such as targeted advertising, profiling and automated decision-making. The exercise of these \nrights may impact our business and ability to provide our products and services. Certain states also impose stricter \nrequirements for processing certain personal data, including sensitive information, such as conducting data privacy \nimpact assessments. These state laws allow for statutory fines for noncompliance. For example, the California Consumer \nPrivacy Act of 2018, as amended by the California Privacy Rights Act of 2020, or CPRA, or collectively the CCPA, gives \nCalifornia residents the right to access, delete and opt-out of certain sharing of their personal information, and to receive \ndetailed information about how it is used and shared. The CCPA provides for fines of up to $7,500 per intentional violation \nand the law created a private right of action for certain data breaches. Similar laws are being considered in several other \nstates, as well as at the federal and local levels. Additionally, several states and localities have enacted measures related \nto the use of artificial intelligence and machine learning in products and services. If we become subject to additional data \nprivacy laws, the risk of enforcement action against us could increase. \nWorldwide regulatory authorities are also considering and have approved various legislative proposals concerning data \nprotection. The European Union adopted the General Data Protection Regulation, or GDPR, and the United Kingdom \nsimilarly adopted the U.K. GDPR, governing the strict handling of personal data of persons within the European Economic \nArea, or EEA, and the United Kingdom, respectively, including its use and protection and the ability of persons whose data \nis stored to access, correct, and delete such data about themselves. If we are found not to comply, we could be subject to \npenalties of up to \u20ac20 million or 4% of worldwide revenue, whichever is greater, and classes of individuals or consumer \nprotection organizations may initiate litigation related to our processing of their personal data. Furthermore, the EU AI \nAct could impose onerous obligations that may disproportionately impact and disadvantage us and require us to change \nour business practices.\nIn the ordinary course of business, we may transfer personal data from Europe, China, and other jurisdictions to the \nUnited States or other countries. Certain jurisdictions have enacted data localization laws and cross-border personal data \ntransfer laws. For example, the GDPR generally restricts the transfer of personal data to countries outside of the EEA. \nThe European Commission released a set of \u201cStandard Contractual Clauses\u201d designed for entities to validly transfer \npersonal data out of the EEA to jurisdictions that the European Commission has not found to provide an adequate level of \nprotection, including the United States. Additionally, the U.K.\u2019s International Data Transfer Agreement / Addendum, as \nwell as the EU-U.S. Data Privacy Framework and the U.K. extension thereto (which allows for transfers to relevant U.S.-\nbased organizations who self-certify compliance and participate in the Framework) are mechanisms that may be used to \ntransfer personal data from the EEA and U.K. to the United States. However, these mechanisms are subject to legal \nchallenges, and there is no assurance that we can satisfy or rely on these measures to lawfully transfer personal data to \nthe United States. Other jurisdictions have enacted or are considering similar cross-border personal data transfer laws \nand local personal data residency laws, any of which would increase the cost and complexity of doing business and could \nresult in fines from regulators. For example, China\u2019s law imposes various requirements relating to data processing and \ndata localization. Data broadly defined as important under China\u2019s law, including personal data, may not be transferable \noutside of China without prior assessment and approval by the Cyberspace Administration of China, or CAC. Compliance \nwith these requirements, including CAC assessments and any deemed failures of such assessments, could cause us to \nincur liability, prevent us from using data collected in China or impact our ability to transfer data outside of China. The \ninability to import personal data to the United States could significantly and negatively impact our business operations, \nlimit our ability to collaborate with parties that are subject to European, China and other data privacy and security laws, or \nrequire us to increase our personal data processing capabilities in Europe and/or elsewhere at significant expense. Some \nEuropean regulators have prevented companies from transferring personal data out of Europe for allegedly violating the \nGDPR\u2019s cross-border data transfer limitations, which could negatively impact our business.\nWe may also be bound by contractual obligations related to data privacy and security, and our efforts to comply with such \nobligations may not be successful or may be claimed to be non-compliant. For example, certain privacy laws, such as the \nGDPR and the CCPA, require our customers to impose specific contractual restrictions on their service providers. We \nsometimes host personal data in collaboration with our customers, and if a breach exposed or altered that personal data, \nit could harm those customer relationships and subject us to litigation, regulatory action, or fines. We publish privacy \npolicies, marketing materials and other statements, such as compliance with certain certifications or self-regulatory \nprinciples, regarding data privacy and security. If these policies, materials or statements are found to be deficient, lacking \nin transparency, deceptive, unfair or misrepresentative of our practices, we may be subject to investigation, enforcement \nactions by regulators or other adverse consequences.\n29"
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 22,
+      "refined_text": "The dawn of a new computing \nera is unmistakably upon us.\nTwo transitions are occurring \nsimultaneously\u2014accelerated computing \nand generative AI\u2014transforming \nthe computer industry and every \nother industry worldwide.\nCPU scaling, the engine that has \ndriven the computer industry over \nthe past three decades, has slowed. \nSoftware developers have turned \nto accelerated computing to keep \npace with the exponentially growing \ndemand for computing in a cost- and \nenergy-sustainable way. The computing \nmodel pioneered by NVIDIA has \nreached critical mass and has been \nadopted broadly as the path forward.\nAccelerated computing will modernize \nthe world\u2019s trillion-dollar data \ncenter infrastructure. Its increased \nthroughput and cost and energy \nsavings are remarkable. Two NVIDIA \nHGX computers with Hopper GPUs \nthat together cost $500K can replace \n1,000 nodes of CPU servers that cost \n$10M for AI, scientific computing, \nor data processing workloads.\nFor data centers that are budget- or \npower-limited, NVIDIA delivers an order-\nof-magnitude increase in throughput. \nFor data centers optimized for \nthroughput, NVIDIA delivers an order-of-\nmagnitude reduction in cost and power. \nAccelerated computing is the best way \nto build sustainable data centers.\nWhen the cost of a fundamental \nresource, like computing, improves by \norders of magnitude, new methods \nare invented, and new utilities are \ndiscovered. AI researchers tapped \nNVIDIA CUDA to realize deep learning, \na machine learning algorithm that is \nincredibly compute-intensive. Deep \nlearning processes mountains of data \nto find patterns and relationships \nand learn predictive features. In \n2012, AlexNet shocked the artificial \nintelligence community by winning, by \na considerable margin, the ImageNet \ncomputer vision contest. Within a \ncouple of years, every computer vision \nalgorithm used deep learning, and \nwithin five years, computer vision had \nachieved superhuman object recognition \ncapabilities. AlexNet on NVIDIA CUDA \nwas the big bang of modern AI.\nWe recognized that AlexNet was more \nthan a computer vision breakthrough. \nWe imagined deep learning would \nfundamentally revolutionize software \nand, consequently, all computing. Deep \nlearning can scale to tackle many \npreviously impossible challenges with \nnew network architecture innovations, \nmore data, and more compute.\nIn the ensuing decade, NVIDIA \nset out to advance AI. We \npursued several strategies:\nReinvent every layer of computing, \nfrom GPU architecture, e.g., Tensor \nCores, to system interconnect, \ne.g., NVLink, systems, e.g., DGX, \nsoftware, e.g., cuDNN and TensorRT, \nto networking technologies, e.g., \nSHARP in-networking processing, \nand much more. We reinvented \ncomputing from the ground up.\nTransform into a data-center-scale \ncompany by combining with Mellanox, \nthe world\u2019s leading high-performance \nnetworking company. As computing \nlarge models and training data \nscales to require millions of trillions \nmore operations, we need not just \namazing chips but AI supercomputing \nsystems. Today, NVIDIA is an expert at \nevery computing layer, from chips to \nsoftware, and across the data center \n\u2014compute to networking. We have the \nexpertise and scale to help customers \nbuild AI infrastructures anywhere.\nBecome an AI expert by building NVIDIA \nAI Research and application-specific \nAI platforms\u2014full-stack AI platforms \nfor DLSS RTX neural graphics, DRIVE \nAV self-driving cars, Isaac robotics, \nACE digital humans, NeMo LLMs, \nBioNeMo digital biology, and Clara \nmedical imaging\u2014so that we can apply \nAI firsthand to create new markets. \nAutomotive has joined gaming as a \nmulti-billion-dollar run rate business. \nHealthcare and robotics are additional \nmulti-billion-dollar opportunities. \nDear NVIDIANs  \nand Stakeholders,"
+    },
+    {
+      "document": "AR3.pdf",
+      "page": 25,
+      "refined_text": "LLMs, distillation to small models, high \nthroughput to high interactivity\u2014the \ninnovation rate of training and inference \nis incredibly high. Advances are \ncoming from every computer science \ndepartment and every industry. NVIDIA \nCUDA\u2019s rich software ecosystem and \nubiquity attracts more developers, \nwhich creates more advances \nthat drive more adoption. NVIDIA\u2019s \necosystem flywheel is in full throttle.\nOur customers and partners want \nmore and faster. A much bigger GPU \nis needed, so we built Blackwell. The \nmost advanced GPU-accelerated \ncomputing system ever built, the work \nof thousands of engineers and over two \ndecades of learning and craftsmanship, \nthe Blackwell platform is the computer \nfor the generative AI era and the new \nindustrial revolution. Blackwell adoption \nis already underway by every major \ncloud service provider, server maker, \nand leading AI company, including \nAmazon, Google, Meta, Microsoft, \nOpenAI, Tesla, and xAI, with Blackwell-\nbased products expected to be rolled \nout by our partners later this year.\nThe numbers are incredible\u2014208 \nbillion transistors on the B200 Tensor \nCore GPU, 600,000 parts, 3,000 \npounds, two miles of NVLink cables, \n30X faster inference, 4X speedier \ntraining, and about 25X less cost of \nownership and energy consumption \nthan Hopper, and more than double \nthe bandwidth and memory of H100. \nBlackwell has six breakthrough \ntechnologies enabling AI training and \nreal-time LLM inference for models \nscaling up to 10 trillion parameters. \nThe second-generation transformer \nengine enables Blackwell to support \ndouble the compute and model sizes. \nFifth-generation NVLink delivers \ngroundbreaking 1.8TB/s bidirectional \nthroughput per GPU for seamless high-\nspeed communication among up to 576 \nGPUs for handling trillion-parameter \nLLMs. A built-in reliability, availability, \nand serviceability (RAS) engine uses \nAI-based preventative maintenance \nto run diagnostics and forecast \nreliability issues, increasing uptime and \nresiliency and reducing operational \ncosts. Advanced confidential computing \ncapabilities, including new native \ninterface encryption protocols, provide \nunprecedented levels of security without \ncompromising performance. Finally, \na dedicated decompression engine \ndelivers a leap for data processing. \nData processing is a top workload in \nthe world\u2019s data centers. Data is the \nraw material of AI, and the amount of \ndata generated is growing exponentially. \nPre- and post-processing data for AI \ncan often consume half of the total \nworkload. NVIDIA is singular in our \nability to accelerate data processing. \nNVIDIA Blackwell and NVIDIA\u2019s \nRAPIDS acceleration libraries will let \nus achieve an order-of-magnitude \nreduction in time, cost, and energy. \nThat\u2019s a mind-boggling amount \nof performance. Still, we needed \nsomething even more significant for \nthis generative industrial revolution. \nSo, we scaled it even further. The \nGB200 NVL72 combines 36 Grace \nBlackwell GB200 Superchips to act as \na single GPU in a multi-node, liquid-\ncooled, rack-scale system. Each GB200 \nconnects two NVIDIA B200 Tensor \nCore GPUs to an NVIDIA Grace CPU. \nBlackwell is a whole computing platform \nthat customers can configure into \nvarious AI infrastructures. The Blackwell \nplatform includes the new Quantum \nInfiniBand and Spectrum Ethernet \nswitches, the X800 series, designed \nfor trillion-parameter-scale AI. \nIf NVIDIA GPUs are like the neurons, \nthen NVIDIA networks are like the \nsynapses. Both are vital to performance. \nThe new Spectrum X800 is the first \nhigh-performance networking platform \nto overcome Ethernet\u2019s fundamental \nshortcomings for distributed \nsupercomputing like AI. While Quantum \nX800 is best for dedicated AI factories, \nSpectrum X800 brings many of \nNVIDIA\u2019s networking technologies \nfor AI to the large Ethernet market.\nTraining a 1.8 trillion-parameter GPT \nmodel took about three to five months \nwith 25,000 NVIDIA Ampere architecture \nGPUs. With Hopper, it would take about \n8,000 GPUs and consume 15 megawatts \nover about three months. For Blackwell, \nin the same 90 days, it would need \na quarter of the GPUs and a quarter \nof the power of prior models for the \nsame task\u2014only about 4 megawatts.\nNVIDIA AI for Every \nIndustry and Enterprise\nGenerative AI will transform every \nindustry. NVIDIA has already applied \nAI to build several multi-billion-\ndollar verticals\u2014gaming, healthcare, \nautomotive, and robotics. We are \nnow bringing NVIDIA\u2019s accelerated \ncomputing and AI to the enterprise. \nEnterprises have not historically been a \nmarket for GPUs and high-performance \ncomputing. Generative AI changes that. \nCopilots, assistants, and agents will \naugment and amplify every employee \nand business process in the future, \nand enterprises will be significant \nmarkets for NVIDIA GPU computing."
+    }
+  ]
+}

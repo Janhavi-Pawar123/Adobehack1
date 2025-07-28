@@ -1,0 +1,1493 @@
+{
+  "metadata": {
+    "documents": [
+      "rp1.pdf",
+      "rp2.pdf",
+      "rp3.pdf",
+      "rp4.pdf"
+    ],
+    "persona": "Investment Analyst",
+    "job": "\"Analyze revenue trends, R&D investments, and market\npositioning strategies\"",
+    "timestamp": "2025-07-28T15:31:26.089765Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "rp1.pdf",
+      "page": 67,
+      "section_title": "3.1.3.3 Pretraining and Transfer Learning",
+      "importance_rank": 1
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 152,
+      "section_title": "6.2.2 Heterogeneous Node Relations: Drug Repurposing and Target Identification",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 154,
+      "section_title": "This approach enables KG-Predict to extract",
+      "importance_rank": 3
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 9,
+      "section_title": "2.1.1 Spectral-based GNN: Begin with Spectral Graph Theory",
+      "importance_rank": 4
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 14,
+      "section_title": "GraphSAGE",
+      "importance_rank": 5
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 15,
+      "section_title": "2.2 Symmetric GNN: Incorporate Physical Laws",
+      "importance_rank": 6
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 16,
+      "section_title": "2.2.1 Internal Coordinate-based Invariant GNN",
+      "importance_rank": 7
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 18,
+      "section_title": "From the MPNN perspective, DimeNet captures second-order interactions: each message along edge",
+      "importance_rank": 8
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 22,
+      "section_title": "equivariance under SO(3) rotations. While many implementations follow the PyTorch convention of",
+      "importance_rank": 9
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 30,
+      "section_title": "2.3.2.2 Graph Transformer Models",
+      "importance_rank": 10
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 36,
+      "section_title": "2.3.3 Pre-train Strategies: Utilizing Unlabeled Molecules",
+      "importance_rank": 11
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 88,
+      "section_title": "4.2 Protein-Ligand Binding Structure Prediction: Docking",
+      "importance_rank": 12
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 93,
+      "section_title": "4.2.2.3 Generative Approaches",
+      "importance_rank": 13
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 95,
+      "section_title": "The RF-AA model builds upon",
+      "importance_rank": 14
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 115,
+      "section_title": "sizes, though it may suffer from memory inefficiencies and is generally applicable only to small-molecule",
+      "importance_rank": 15
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 143,
+      "section_title": "6.1.1.2 Ontology",
+      "importance_rank": 16
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 147,
+      "section_title": "6.2.1 Homologous Node Relations: Drug Synergy, Side Effects",
+      "importance_rank": 17
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 162,
+      "section_title": "6.4.3 Explainability",
+      "importance_rank": 18
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 163,
+      "section_title": "7. Chemical Synthesis",
+      "importance_rank": 19
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 164,
+      "section_title": "catalysts, reagents, temperature), reaction class, yield, and procedural annotations. Broadly, such data can",
+      "importance_rank": 20
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 166,
+      "section_title": "7.1.3 Tasks in Synthesis Planning",
+      "importance_rank": 21
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 167,
+      "section_title": "7.2 Synthesis Pathway Planning Tasks",
+      "importance_rank": 22
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 168,
+      "section_title": "7.2.1.1 Single-step Retrosynthesis Prediction Methods",
+      "importance_rank": 23
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 169,
+      "section_title": "The use of GNNs further enhances molecular representation by capturing fine-grained atomic or",
+      "importance_rank": 24
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 171,
+      "section_title": "example, uses direct SMILES-based translation for synthons completion. Due to its simplified seq2seq",
+      "importance_rank": 25
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 173,
+      "section_title": "7.2.2 Forward Reaction Prediction",
+      "importance_rank": 26
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 174,
+      "section_title": "7.3 Reaction Property Prediction Tasks",
+      "importance_rank": 27
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 176,
+      "section_title": "7.3.3 Reaction Yield Prediction",
+      "importance_rank": 28
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 178,
+      "section_title": "7.4 Perspectives of Chemical Synthesis",
+      "importance_rank": 29
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 195,
+      "section_title": "(235) Fang, X.; Liu, L.; Lei, J.; He, D.; Zhang, S.; Zhou, J.; Wang, F.; Wu, H.; Wang, H. Geometry-",
+      "importance_rank": 30
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 5,
+      "section_title": "1. Introduction",
+      "importance_rank": 31
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 6,
+      "section_title": "molecular topology, facilitating compatibility with sequence-based models, but they struggle to capture",
+      "importance_rank": 32
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 7,
+      "section_title": "1.2. Scope and Organization of This Review",
+      "importance_rank": 33
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 11,
+      "section_title": "computational cost of",
+      "importance_rank": 34
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 12,
+      "section_title": "2.1.2 Spatial-based GNN: Unified Framework with MPNN",
+      "importance_rank": 35
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 17,
+      "section_title": ", \u2026 , \ud835\udc4d",
+      "importance_rank": 36
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 19,
+      "section_title": "2.2.2 Tensor Product-based Equivariant GNN",
+      "importance_rank": 37
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 20,
+      "section_title": "determine how the input features are coupled into output components of type-",
+      "importance_rank": 38
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 21,
+      "section_title": "2.2.3 Vector-based Equivariant GNN",
+      "importance_rank": 39
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 23,
+      "section_title": "NewtonNet",
+      "importance_rank": 40
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 24,
+      "section_title": "2.3 Large and Deep GNN: Challenges and Actions",
+      "importance_rank": 41
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 26,
+      "section_title": "Over-smoothing",
+      "importance_rank": 42
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 27,
+      "section_title": "2.3.1.2 Possible Solution",
+      "importance_rank": 43
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 28,
+      "section_title": "Residual Connections",
+      "importance_rank": 44
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 29,
+      "section_title": "2.3.2 Transformer-like GNNs: Robust Large GNN models",
+      "importance_rank": 45
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 32,
+      "section_title": "GraphiT",
+      "importance_rank": 46
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 33,
+      "section_title": "Specformer enables dynamic adaptation of spectral filters, showing superior performance on both",
+      "importance_rank": 47
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 35,
+      "section_title": "2.3.2.3 A Unified Framework for Graph Transformers",
+      "importance_rank": 48
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 38,
+      "section_title": "2.3.3.1 Generative Pre-training",
+      "importance_rank": 49
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 40,
+      "section_title": "2.3.3.3 Contrastive Pre-training",
+      "importance_rank": 50
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 46,
+      "section_title": "2.4.2 Latent variable methods: from VAE, GAN to Diffusion",
+      "importance_rank": 51
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 58,
+      "section_title": "3. Molecular Property Prediction",
+      "importance_rank": 52
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 60,
+      "section_title": "3.1.1.2 Physicochemical Properties",
+      "importance_rank": 53
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 63,
+      "section_title": "3.1.2.3 Conformation-Aware GNNs",
+      "importance_rank": 54
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 64,
+      "section_title": "3.1.2.4 Chirality-Aware GNNs",
+      "importance_rank": 55
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 70,
+      "section_title": "3.2 Uncertainty Quantification in GNN Property Prediction: Control Risk",
+      "importance_rank": 56
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 72,
+      "section_title": "3.2.2.2 Evidential Deep Learning",
+      "importance_rank": 57
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 73,
+      "section_title": "3.2.2.3 Post-Hoc Calibration",
+      "importance_rank": 58
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 78,
+      "section_title": "3.3.2.1.2 Mask-Based Methods",
+      "importance_rank": 59
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 82,
+      "section_title": "3.3.3 Counterfactual Explanation Methods: More Natural to Drug Discovery",
+      "importance_rank": 60
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 85,
+      "section_title": "4. Virtual Screening",
+      "importance_rank": 61
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 92,
+      "section_title": "4.2.2.2 Regressing Cartesian Coordinates",
+      "importance_rank": 62
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 96,
+      "section_title": "4.2.3.2 Induce-fit Docking: Protein Structures Input",
+      "importance_rank": 63
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 100,
+      "section_title": "4.3.1 Task Descriptions and Datasets Available",
+      "importance_rank": 64
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 106,
+      "section_title": "4.3.3 Four Powers of GNN Scoring Functions: Beyond Regression",
+      "importance_rank": 65
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 111,
+      "section_title": "4.3.4.2 Strategies to Mitigate Overfitting",
+      "importance_rank": 66
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 116,
+      "section_title": "5.1.1.2 Autoregressive Strategy: Grow Molecules Gradually",
+      "importance_rank": 67
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 118,
+      "section_title": "5.1.2 Fragment-wise Molecular Generation",
+      "importance_rank": 68
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 119,
+      "section_title": "5.1.2.2 Fragment Mining and Structural Vocabulary Learning",
+      "importance_rank": 69
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 120,
+      "section_title": "5.2 Constrained Molecular Generation: Various Application Domains",
+      "importance_rank": 70
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 121,
+      "section_title": "5.2.1.1 Distance Geometry-Based Methods",
+      "importance_rank": 71
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 122,
+      "section_title": "5.2.2 3D Molecular Generation: Co-Design of Molecular Graphs and Coordinates",
+      "importance_rank": 72
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 125,
+      "section_title": "5.2.4.1 Autoregressive SBMG Models",
+      "importance_rank": 73
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 137,
+      "section_title": "5.3.4 Challenges: Multi-objective and Many-objective Optimization",
+      "importance_rank": 74
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 138,
+      "section_title": "5.3.4.1 Pareto Optimality: A More Flexible Optimization Paradigm",
+      "importance_rank": 75
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 139,
+      "section_title": "6. Knowledge Graph",
+      "importance_rank": 76
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 140,
+      "section_title": "6.1.1.1 Entities",
+      "importance_rank": 77
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 141,
+      "section_title": "example, in cancer research, tumor suppressor genes such as TP53 and BRCA1 are commonly associated",
+      "importance_rank": 78
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 145,
+      "section_title": "6.2 Link Prediction: Completing Knowledge",
+      "importance_rank": 79
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 149,
+      "section_title": "model to learn both cell-line-specific and shared embeddings. These are combined with ECFP",
+      "importance_rank": 80
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 151,
+      "section_title": "6.2.1.2 Drug Side Effects Prediction",
+      "importance_rank": 81
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 153,
+      "section_title": "Disease-Centric",
+      "importance_rank": 82
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 155,
+      "section_title": "disease) and aggregates them using attention.",
+      "importance_rank": 83
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 157,
+      "section_title": "6.3 Node and Graph Prediction: Leveraging Knowledge",
+      "importance_rank": 84
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 158,
+      "section_title": "uncover critical genes driving tumorigenesis, as illustrated in",
+      "importance_rank": 85
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 165,
+      "section_title": "7.1.2 Chemical Reaction Databases",
+      "importance_rank": 86
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 170,
+      "section_title": "7.2.1.1.2 Semi-Template-based Methods",
+      "importance_rank": 87
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 172,
+      "section_title": "7.2.1.2 Multi-step Retrosynthesis Prediction Methods",
+      "importance_rank": 88
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 175,
+      "section_title": "7.3.2 Reaction Condition Prediction",
+      "importance_rank": 89
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 177,
+      "section_title": "involves modeling fine-grained, continuous variables, which requires higher model sensitivity and",
+      "importance_rank": 90
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 179,
+      "section_title": "8. Conclusions and Perspectives",
+      "importance_rank": 91
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 184,
+      "section_title": "(35) Villar, S.; Hogg, D. W.; Storey-Fisher, K.; Yao, W.; Blum-Smith, B. Scalars are universal: Equivariant",
+      "importance_rank": 92
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 192,
+      "section_title": "(183) Mnih, V.; Badia, A. P.; Mirza, M.; Graves, A.; Lillicrap, T.; Harley, T.; Silver, D.; Kavukcuoglu, K.",
+      "importance_rank": 93
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 213,
+      "section_title": "(565) Zeng, X.; Zhu, S.; Liu, X.; Zhou, Y.; Nussinov, R.; Cheng, F. deepDR: a network-based deep",
+      "importance_rank": 94
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 217,
+      "section_title": "(635) Goodman, J. Computer Software Review: Reaxys.",
+      "importance_rank": 95
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 218,
+      "section_title": "(655) Chen, S.; Jung, Y. A generalized-template-based graph neural network for accurate organic reactivity",
+      "importance_rank": 96
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 2,
+      "section_title": "Abstract",
+      "importance_rank": 97
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 3,
+      "section_title": "Contents",
+      "importance_rank": 98
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 4,
+      "section_title": "7. Chemical Synthesis .............................................................................................................................. 163",
+      "importance_rank": 99
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 8,
+      "section_title": "2. Advances in Graph Neural Networks",
+      "importance_rank": 100
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 10,
+      "section_title": "eigenvectors and non-negative eigenvalues. Let",
+      "importance_rank": 101
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 13,
+      "section_title": "The MPNN framework formalizes GNNs through four key functions, whose specific",
+      "importance_rank": 102
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 25,
+      "section_title": "2.3.1 Over-Smooth, Over-Squashing, and Gradient Anomalies",
+      "importance_rank": 103
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 31,
+      "section_title": "= (\ud835\udc3c \u2212 \ud835\udefe\ud835\udc3f)",
+      "importance_rank": 104
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 34,
+      "section_title": "notices that tasks in ZINC are typically",
+      "importance_rank": 105
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 37,
+      "section_title": "generative pretraining for molecular graphs based on categorizing them into generative, predictive, and",
+      "importance_rank": 106
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 39,
+      "section_title": "2.3.3.2 Predictive Pre-training",
+      "importance_rank": 107
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 41,
+      "section_title": "straightforward because molecules from different structures naturally serve as negatives. Positive pairs, on",
+      "importance_rank": 108
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 42,
+      "section_title": "framing a discriminative contrastive task. Similarly,",
+      "importance_rank": 109
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 43,
+      "section_title": "2.4 Graph Generative Models and Probability Learning",
+      "importance_rank": 110
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 47,
+      "section_title": "2.4.2.1 Variational Autoencoder (VAE)",
+      "importance_rank": 111
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 48,
+      "section_title": "2.4.2.3 Diffusion Models",
+      "importance_rank": 112
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 49,
+      "section_title": "2.4.2.4 Extensions of Diffusion Models",
+      "importance_rank": 113
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 50,
+      "section_title": "2.5 Graph Editing and Reinforcement Learning",
+      "importance_rank": 114
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 51,
+      "section_title": "2.5.1 Policy Gradient: Finetune Pretrained Graph Editing Models",
+      "importance_rank": 115
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 52,
+      "section_title": "2.5.1.2 TRPO & PPO: Improved Policy Gradient",
+      "importance_rank": 116
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 53,
+      "section_title": "Here, trajectories",
+      "importance_rank": 117
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 54,
+      "section_title": "2.5.2 Value-based: Learn the Values of Each Graph Edit Step",
+      "importance_rank": 118
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 55,
+      "section_title": "2.5.3 Hybrid Approaches",
+      "importance_rank": 119
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 57,
+      "section_title": "2.5.4 Search-based: MCTS for Searching Discrete Graph Spaces",
+      "importance_rank": 120
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 59,
+      "section_title": "blood-brain barrier (BBB) permeability",
+      "importance_rank": 121
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 61,
+      "section_title": "3.1.2 Chemistry-enhanced GNNs: Fragments, Conformers, and Chirality",
+      "importance_rank": 122
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 62,
+      "section_title": "3.1.2.1 D-MPNN: Bond-as-node",
+      "importance_rank": 123
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 65,
+      "section_title": "Strategies for Mitigating Data Sparsity: Multi-task, Meta-, and Transfer Learning",
+      "importance_rank": 124
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 66,
+      "section_title": "3.1.3.2 Meta-Learning",
+      "importance_rank": 125
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 68,
+      "section_title": "3.1.4 Challenges in Molecular Property Prediction",
+      "importance_rank": 126
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 69,
+      "section_title": "3.1.4.1 Data Imbalance",
+      "importance_rank": 127
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 71,
+      "section_title": "3.2.2 Epistemic (Model) Uncertainty",
+      "importance_rank": 128
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 75,
+      "section_title": "3.3.2 Factual Explanation: Post-Hoc and Self-Explanation",
+      "importance_rank": 129
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 76,
+      "section_title": "3.3.2.1 Post Hoc Methods: Training an Explainer",
+      "importance_rank": 130
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 79,
+      "section_title": "3.3.2.1.3 Search- and Generation-Based Methods",
+      "importance_rank": 131
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 80,
+      "section_title": "3.3.2.1.4 Local Structural Methods",
+      "importance_rank": 132
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 81,
+      "section_title": "Predictors Explain",
+      "importance_rank": 133
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 83,
+      "section_title": "3.3.3.2 Search- and Generation-Based Counterfactual Methods",
+      "importance_rank": 134
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 84,
+      "section_title": "(Molecular Explanation Generator) is a representative RL-based search approach. It adopts a",
+      "importance_rank": 135
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 86,
+      "section_title": "4.1.1 Task Descriptions and Datasets Available",
+      "importance_rank": 136
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 87,
+      "section_title": "4.1.2 Method Development",
+      "importance_rank": 137
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 89,
+      "section_title": "4.2.1 Task Descriptions and Datasets Available",
+      "importance_rank": 138
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 90,
+      "section_title": "4.2.2 Semi-flexible Docking: Distance Geometry and Direct XYZ",
+      "importance_rank": 139
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 91,
+      "section_title": "4.2.2.1 Regressing Distance Matrices",
+      "importance_rank": 140
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 94,
+      "section_title": "4.2.3 Flexible Docking: Co-Folding and Induce-Fit Docking",
+      "importance_rank": 141
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 97,
+      "section_title": "4.2.4 Challenges of Molecular Docking Models",
+      "importance_rank": 142
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 98,
+      "section_title": "4.3 Binding Affinity Prediction",
+      "importance_rank": 143
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 101,
+      "section_title": "4.3.2 Datasets",
+      "importance_rank": 144
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 102,
+      "section_title": "DEKOIS 2.0, DUD-E, and LIT-PCBA",
+      "importance_rank": 145
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 103,
+      "section_title": "4.3.2 Mining Protein-Ligand Interactions with GNN",
+      "importance_rank": 146
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 104,
+      "section_title": "4.3.2.2 Physics-inspired Interaction Learning",
+      "importance_rank": 147
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 105,
+      "section_title": "4.3.2.3 Enhancing Interaction Learning via Fusion Models",
+      "importance_rank": 148
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 107,
+      "section_title": "4.3.3.2 Docking Power",
+      "importance_rank": 149
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 108,
+      "section_title": "4.3.3.4 Balancing Four Powers",
+      "importance_rank": 150
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 109,
+      "section_title": "retained, thereby capturing the conformational flexibility of active ligands within the binding pocket. The",
+      "importance_rank": 151
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 110,
+      "section_title": "4.3.4 Challenge in GNN-based Scoring Functions: Overfitting",
+      "importance_rank": 152
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 112,
+      "section_title": "5. Molecular Generation",
+      "importance_rank": 153
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 114,
+      "section_title": "5.1.1.1 One-Shot Strategy: Determine Length First",
+      "importance_rank": 154
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 117,
+      "section_title": "One of the early representatives of autoregressive molecular generation is",
+      "importance_rank": 155
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 123,
+      "section_title": "5.2.3.1 One-Shot Models for 3D Molecular Generation",
+      "importance_rank": 156
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 124,
+      "section_title": "5.2.3 Structure-based Molecular Generation: Directly Design Molecules to Targets",
+      "importance_rank": 157
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 126,
+      "section_title": "displacements are typically parameterized using equivariant networks such as EGNN or GVP. 3D-",
+      "importance_rank": 158
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 127,
+      "section_title": "5.2.4.2 One-shot SBMG Models",
+      "importance_rank": 159
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 128,
+      "section_title": "5.2.4 Real-World Challenges in Applying Molecular Generation",
+      "importance_rank": 160
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 129,
+      "section_title": "5.2.4.2 Biases in Evaluating Molecular Generation",
+      "importance_rank": 161
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 130,
+      "section_title": "5.3 Molecular Optimization: Generate Better Molecules",
+      "importance_rank": 162
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 131,
+      "section_title": "5.3.1 Search-based Methods: From GA to MCTS",
+      "importance_rank": 163
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 132,
+      "section_title": "5.3.1.2 MCTS-Based Search",
+      "importance_rank": 164
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 133,
+      "section_title": "5.3.2 Graph Embed Methods: GNN-encoded Latent Molecules",
+      "importance_rank": 165
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 134,
+      "section_title": "5.3.2.2 Latent Space Optimization",
+      "importance_rank": 166
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 135,
+      "section_title": "5.3.3 RL-based Methods: Modify Structures as a Human",
+      "importance_rank": 167
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 136,
+      "section_title": "the model to incorporate target-specific constraints",
+      "importance_rank": 168
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 142,
+      "section_title": "interaction data, annotated by therapeutic indications, contraindications, and other clinical factors, and",
+      "importance_rank": 169
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 144,
+      "section_title": "6.1.2 Knowledge Graph Construction",
+      "importance_rank": 170
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 148,
+      "section_title": "representations of two drugs, respectively.  While in theory one might predict combination effects from",
+      "importance_rank": 171
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 150,
+      "section_title": "represent the features of drug",
+      "importance_rank": 172
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 156,
+      "section_title": "6.2.2.2 Target Identification",
+      "importance_rank": 173
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 159,
+      "section_title": "6.3.2 Cancer Subtype Classification",
+      "importance_rank": 174
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 160,
+      "section_title": "6.3.3 Biomarker Identification and Drug Response",
+      "importance_rank": 175
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 161,
+      "section_title": "6.4 Challenges of KGs: Imperfect Data, XAI, and Multi-omics",
+      "importance_rank": 176
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 181,
+      "section_title": "Weibo Zhao",
+      "importance_rank": 177
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 182,
+      "section_title": "Acknowledgements",
+      "importance_rank": 178
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 183,
+      "section_title": "(15) Li, Z.; Jiang, M.; Wang, S.; Zhang, S. Deep learning methods for molecular representation and",
+      "importance_rank": 179
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 185,
+      "section_title": "(53) Baek, M.; DiMaio, F.; Anishchenko, I.; Dauparas, J.; Ovchinnikov, S.; Lee, G. R.; Wang, J.; Cong, Q.;",
+      "importance_rank": 180
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 187,
+      "section_title": "(89) Th\u00fcrlemann, M.; Riniker, S. Anisotropic message passing: Graph neural networks with directional",
+      "importance_rank": 181
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 189,
+      "section_title": "(126) Zhu, J.; Xia, Y.; Wu, L.; Xie, S.; Qin, T.; Zhou, W.; Li, H.; Liu, T.-Y. Unified 2d and 3d pre-training",
+      "importance_rank": 182
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 193,
+      "section_title": "(200) Richard, A. M.; Judson, R. S.; Houck, K. A.; Grulke, C. M.; Volarath, P.; Thillainadarajah, I.; Yang,",
+      "importance_rank": 183
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 194,
+      "section_title": "(220) Johnston, R. C.; Yao, K.; Kaplan, Z.; Chelliah, M.; Leswing, K.; Seekins, S.; Watts, S.; Calkins, D.;",
+      "importance_rank": 184
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 196,
+      "section_title": "(255) de Oc\u00e1riz Borde, H. S.; Barbero, F. Graph neural network expressivity and meta-learning for",
+      "importance_rank": 185
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 197,
+      "section_title": "(276) Li, Y.; Kong, L.; Du, Y.; Yu, Y.; Zhuang, Y.; Mu, W.; Zhang, C. Muben: Benchmarking the",
+      "importance_rank": 186
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 198,
+      "section_title": "(293) Wu, Z.; Wang, J.; Du, H.; Jiang, D.; Kang, Y.; Li, D.; Pan, P.; Deng, Y.; Cao, D.; Hsieh, C.-Y.",
+      "importance_rank": 187
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 199,
+      "section_title": "(311) Jang, E.; Gu, S.; Poole, B. Categorical reparameterization with gumbel-softmax.",
+      "importance_rank": 188
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 200,
+      "section_title": "binding site recognition using complementary binding-specific substructure comparison and",
+      "importance_rank": 189
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 201,
+      "section_title": "(346) Yuan, Q.; Tian, C.; Yang, Y. Genome-scale annotation of protein binding sites via language model",
+      "importance_rank": 190
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 202,
+      "section_title": "(364) AlQuraishi, M. AlphaFold at CASP13.",
+      "importance_rank": 191
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 203,
+      "section_title": "(382) Li, S.; Zhou, J.; Xu, T.; Huang, L.; Wang, F.; Xiong, H.; Huang, W.; Dou, D.; Xiong, H. Structure-",
+      "importance_rank": 192
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 209,
+      "section_title": "(494) Nicolaou, C. A.; Apostolakis, J.; Pattichis, C. S. De novo drug design using multiobjective",
+      "importance_rank": 193
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 210,
+      "section_title": "(512) Hermjakob, H.; Montecchi",
+      "importance_rank": 194
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 211,
+      "section_title": "(529) Organization, W. H.",
+      "importance_rank": 195
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 212,
+      "section_title": "(548) Rozemberczki, B.; Gogleva, A.; Nilsson, S.; Edwards, G.; Nikolov, A.; Papa, E. Moomin: Deep",
+      "importance_rank": 196
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 214,
+      "section_title": "(583) Li, H.; Zhao, D.; Zeng, J. KPGT: knowledge-guided pre-training of graph transformer for molecular",
+      "importance_rank": 197
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 215,
+      "section_title": "(599) Zhao, W.; Gu, X.; Chen, S.; Wu, J.; Zhou, Z. MODIG: integrating multi-omics and multi-",
+      "importance_rank": 198
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 216,
+      "section_title": "(616) Janku, F. Tumor heterogeneity in the clinic: is it a real problem?",
+      "importance_rank": 199
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 219,
+      "section_title": "(674) Skoraczy",
+      "importance_rank": 200
+    },
+    {
+      "document": "rp2.pdf",
+      "page": 4,
+      "section_title": "shows that GNN-GP outperforms GNN baseline",
+      "importance_rank": 1
+    },
+    {
+      "document": "rp2.pdf",
+      "page": 1,
+      "section_title": "arXiv:2111.12951v1  [cs.LG]  25 Nov 2021",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp2.pdf",
+      "page": 2,
+      "section_title": "Methods",
+      "importance_rank": 3
+    },
+    {
+      "document": "rp2.pdf",
+      "page": 3,
+      "section_title": "CardioTox: Drug cardiotoxicity under distributional shift",
+      "importance_rank": 4
+    },
+    {
+      "document": "rp2.pdf",
+      "page": 5,
+      "section_title": "Conclusion",
+      "importance_rank": 5
+    },
+    {
+      "document": "rp2.pdf",
+      "page": 6,
+      "section_title": "Lior Hirschfeld, Kyle Swanson, Kevin Yang, Regina Barzilay, and Connor W Coley. Uncertainty",
+      "importance_rank": 6
+    },
+    {
+      "document": "rp2.pdf",
+      "page": 10,
+      "section_title": "Uncertainty improvements for OFNs",
+      "importance_rank": 7
+    },
+    {
+      "document": "rp2.pdf",
+      "page": 11,
+      "section_title": "Ablation study on performance contribution",
+      "importance_rank": 8
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 15,
+      "section_title": "technology in the drug discovery",
+      "importance_rank": 1
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 2,
+      "section_title": "1 Introduction",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 16,
+      "section_title": "4.3 Summary and prospect",
+      "importance_rank": 3
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 7,
+      "section_title": "3.5 Author analysis",
+      "importance_rank": 4
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 14,
+      "section_title": "4.2 Research hot spots and trends",
+      "importance_rank": 5
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 18,
+      "section_title": "References",
+      "importance_rank": 6
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 19,
+      "section_title": "Stokes, J. M., Yang, K., Swanson, K., Jin, W. G., Cubillos-Ruiz, A., Donghia, N. M.,",
+      "importance_rank": 7
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 1,
+      "section_title": "Knowledge mapping of graph",
+      "importance_rank": 8
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 3,
+      "section_title": "2.2 Data retrieval strategy",
+      "importance_rank": 9
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 4,
+      "section_title": "3 Results",
+      "importance_rank": 10
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 5,
+      "section_title": "institutional partnerships, more than 800 institutions were involved",
+      "importance_rank": 11
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 6,
+      "section_title": "3.4 Journal analysis",
+      "importance_rank": 12
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 11,
+      "section_title": "Document (Author/",
+      "importance_rank": 13
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 12,
+      "section_title": "4 Discussions",
+      "importance_rank": 14
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 13,
+      "section_title": "Research and Development Program of China, and the National",
+      "importance_rank": 15
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 17,
+      "section_title": "5 Limitations",
+      "importance_rank": 16
+    },
+    {
+      "document": "rp4.pdf",
+      "page": 5,
+      "section_title": "Computational framework",
+      "importance_rank": 1
+    },
+    {
+      "document": "rp4.pdf",
+      "page": 1,
+      "section_title": "Drug discovery and mechanism",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf",
+      "page": 8,
+      "section_title": "Discovery of drug mechanisms",
+      "importance_rank": 3
+    },
+    {
+      "document": "rp4.pdf",
+      "page": 10,
+      "section_title": "Necessity of including edge features",
+      "importance_rank": 4
+    },
+    {
+      "document": "rp4.pdf",
+      "page": 2,
+      "section_title": "Methods",
+      "importance_rank": 5
+    },
+    {
+      "document": "rp4.pdf",
+      "page": 3,
+      "section_title": "Drug representation",
+      "importance_rank": 6
+    },
+    {
+      "document": "rp4.pdf",
+      "page": 4,
+      "section_title": "www.nature.com/scientificreports/",
+      "importance_rank": 7
+    },
+    {
+      "document": "rp4.pdf",
+      "page": 7,
+      "section_title": "Drug response prediction",
+      "importance_rank": 8
+    },
+    {
+      "document": "rp4.pdf",
+      "page": 12,
+      "section_title": "Conclusion",
+      "importance_rank": 9
+    },
+    {
+      "document": "rp4.pdf",
+      "page": 6,
+      "section_title": "Model interpretability",
+      "importance_rank": 10
+    },
+    {
+      "document": "rp4.pdf",
+      "page": 9,
+      "section_title": "www.nature.com/scientificreports/",
+      "importance_rank": 11
+    },
+    {
+      "document": "rp4.pdf",
+      "page": 13,
+      "section_title": "Acknowledgements",
+      "importance_rank": 12
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "rp1.pdf",
+      "page": 67,
+      "refined_text": "armadillo and a pangolin after seeing only a few images of each, despite their visual similarity, and this \nkind of rapid generalization exemplifies the goal of meta-learning. In molecular property prediction, \nwhere labeled data for specific endpoints may be extremely limited, meta-learning offers a promising \navenue for improving few-shot performance. Meta-learning strategies are generally categorized into two \nmajor classes: metric-based methods250 and gradient-based methods251. Metric-based approaches construct \na latent space in which new, unlabeled samples can be matched to a small set of labeled examples. In \ncontrast, gradient-based methods aim to learn a set of model parameters that are easily adaptable to new \ntasks with minimal gradient updates. The most widely used gradient-based method in molecular \nmodeling is Model-Agnostic Meta-Learning (MAML) 251, as illustrated in Figure 8E. \nNguyen et al.243 first applied MAML and its two simplified variants, FO-MAML252 (First-Order \nMAML) and ANIL253 (Almost No Inner Loop), on ADMET prediction using the GGNN254 as a \nbackbone and ChEMBL as the training corpus. Their results showed that meta-learned models \nsignificantly outperformed baselines in low-data regimes. Building on this foundation, Guo et al. \nintroduced Meta-MGNN244, which augments the MAML framework with task-dependent attention \nmechanisms during the outer loop updates, allowing dynamic reweighting of tasks. Additionally, it \nintroduces auxiliary self-supervised losses within each task, such as atom and bond masking and recovery, \nto enhance structural representation learning. Meta-MGNN achieved strong performance gains on low-\nshot toxicity prediction benchmarks like Tox21 and SIDER under 1-shot and 5-shot settings. \nBorde et al.255 extended meta-learning to ensemble models, confirming that meta-learned \ninitialization benefits both individual and aggregated predictors in quantum property prediction. More \nrecently, Zhuang et al.245 highlighted a unique characteristic of few-shot learning in molecular science: the \nsame molecule can appear across multiple datasets with different endpoints, and many molecular \nproperties exhibit biological or mechanistic correlations. For example, predictions of cardiotoxicity may \nbenefit from known endocrine-related side effects due to overlapping biological pathways. To exploit this \ncross-property dependency, Zhuang et al.245 proposed GS-Meta (Graph Sampling-based Meta-Learning), \nwhich constructs a molecular-property relationship graph and samples tasks accordingly for meta-training. \nThis task sampling strategy leverages molecular overlap and property interdependence to improve \ngeneralization. Despite these advances, most current studies still evaluate meta-learning under artificial \nconditions, typically 1-shot or 5-shot settings on curated datasets. In real-world applications, further \nevaluation and integration with domain knowledge are necessary for meta-learning to realize its full \npotential in chemistry. \n3.1.3.3 Pretraining and Transfer Learning \nWith the widespread success of foundation models such as ChatGPT256, pretraining has become a \nmainstream strategy for addressing data scarcity in molecular property prediction. Transfer learning,"
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 152,
+      "refined_text": "types. The second scoring function captures broader biological knowledge concerning other types of \nrelationships. \nFollowing Decagon, SkipGNN560 and KGNN561 introduced \u201csecond-order neighbor\u201d strategies into \ngraph convolution updates to capture higher-order interactions among biological entities. Biologically, \nthis means explicitly accounting for the influence of protein \ud835\udc5d\ud835\udc4f  on protein \ud835\udc5d\ud835\udc4e  when updating the \nrelationship between drug \ud835\udc4e  and protein \ud835\udc5d\ud835\udc4e , enhancing the representation of protein interactions \nunderlying side effects. Moreover, EmerGNN563 and SumGNN562 extended this concept further by \nintroducing large-scale biological entities and employing local subgraphs to predict side effects. \nEmerGNN uses a path-based approach, selecting all nodes within paths of length less than \ud835\udc3f from drug \ud835\udc4e \nto drug \ud835\udc4f, forming a path subgraph. It then uses a flow-based GNN to propagate information from \ud835\udc4e to \n\ud835\udc4f, resulting in a pairwise representation \u210e\ud835\udc4e\ud835\udc4f for side effect prediction. In contrast, SumGNN constructs a \nradius-based subgraph centered on drugs \ud835\udc4e and \ud835\udc4f, encompassing nodes within a shortest-path radius \ud835\udc3f. \nThen, it integrates molecular fingerprints into drug node features in its radius-based subgraph using GAT \nbefore predicting side effects. Both models localize learning to relevant biological regions of the graph \nand encode distinct prior assumptions: EmerGNN emphasizes biological paths, while SumGNN \nprioritizes proximity-based biological context. A notable design in EmerGNN is its use of inverse \nrelations: if gene \ud835\udc4e regulates gene \ud835\udc4f, a reverse edge is added to preserve directionality. This contrasts with \nmost undirected KG models, which treat regulation symmetrically, potentially leading to semantic \ndilution. Ablation studies confirm that preserving edge directionality improves prediction performance. \n6.2.2 Heterogeneous Node Relations: Drug Repurposing and Target Identification \n6.2.2.1 Drug Repurposing  \nDrug repositioning is a heterogeneous link prediction task, aiming to infer connections between drugs \nand disease entities. Compared to developing new drugs, drug repositioning significantly reduces cost by \nleveraging known safety and pharmacokinetic profiles, requiring only efficacy validation586. \nDrug repositioning strategies typically follow the drug-target-disease paradigm and can broadly be \ncategorized into three main approaches587. The Drug-Centric approach directly links approved drugs to \nknown targets or pathological pathways through protein-drug interaction prediction, analogous to virtual \nscreening within a limited drug space. Techniques such as molecular docking and QSAR modeling are \nemployed to evaluate drug-target interactions. The Target-Centric strategy identifies novel drug \nrepositioning opportunities by discovering new target-disease pathways. For instance, researchers \nidentified an association between Parkinson\u2019s disease and the ABL tyrosine kinase, suggesting that \nnilotinib, an ABL inhibitor, might have therapeutic potential for this neurodegenerative condition588. \nHowever, this approach is often hindered by the complexity of molecular mechanisms and experimental \nlimitations in target identification, which constrain the scalability of computational methods. The"
+    },
+    {
+      "document": "rp1.pdf",
+      "page": 154,
+      "refined_text": "This approach enables KG-Predict to extract mechanism-level insights across heterogeneous \nbiomedical graphs. \n6.2.2.1.2 Integration of Clinical Data \nGiven that drug repositioning tasks are inherently disease-related, incorporating clinical data into KGs \nhas become an increasingly popular strategy. Generally, such methods construct three distinct networks: a \ndrug-drug similarity network, a disease-disease similarity network, and a drug-disease interaction network. \nDisease similarity typically refers to semantic similarity, derived from one-hot encoding of symptoms, \nwhile drug similarity is often computed based on molecular fingerprints. Due to limited experimental \ndata on drug-drug interactions, other biological attributes (e.g., drug-gene associations) can also be \nleveraged to infer drug similarities592. \nLAGCN568 (Layer Attention GCN) represents a prototypical example following this paradigm. It \nconstructs an integrated adjacency matrix \ud835\udc34\ud835\udc3b, embedding drug and disease similarity information along \nthe diagonal blocks and drug-disease interactions in the off-diagonal blocks: \n\ud835\udc34\ud835\udc3b = [\u223c \ud835\udc46\ud835\udc5f\n\ud835\udc34\n\ud835\udc34\ud835\udc47\n\u223c \ud835\udc46\ud835\udc51] \nLAGCN then applies graph convolution directly to this large matrix and introduces layer-wise \nattention mechanisms to weigh the contributions of embeddings from different layers: \n\ud835\udc3f\ud835\udc56 = \u2211 \ud835\udefc\ud835\udc56\ud835\udc57\u210e\ud835\udc57\n\ud835\udc57\n \nwhere \ud835\udefc\ud835\udc56\ud835\udc57 is the layer-wise attention coefficient. This design has inspired numerous subsequent KG-based \nGNN studies. Another representative work, DRWBNCF569, introduces a \u201cweighted bilinear aggregation\u201d \nstrategy, similar in spirit to SkipGNN and KGNN, to capture second-order neighbor interactions: \n\u210e\ud835\udc5f = \u2211 \u2211(\ud835\udc4a\ud835\udc56\u210e\ud835\udc56 \u2299 \ud835\udc4a\ud835\udc57\u210e\ud835\udc57) \u22c5 \ud835\udc34\ud835\udc56\ud835\udc57\n\ud835\udc5f\n\ud835\udc57\n\ud835\udc56\n \nwhere \ud835\udc4a\ud835\udc56, \u210e\ud835\udc56 and \ud835\udc4a\ud835\udc57, \u210e\ud835\udc57 are the weighted representations of two neighboring nodes, \u2299 denotes element-\nwise multiplication, and \ud835\udc34\ud835\udc56\ud835\udc57\n\ud835\udc5f  is the similarity (often derived from random walk co-occurrence probabilities) \nbetween nodes \ud835\udc56 and \ud835\udc57. \nSubsequent research has further refined the integration of drug-disease network relations. For \nexample, DRHGCN593 first aggregates information via GCN within drug and disease similarity graphs, \nand then repeats the aggregation on drug-disease interaction graph to integrate multi-graph information. \nDRGCC571 uses SVD to fuse representations from drug and disease similarity graphs, subsequently \nfollowed by GraphSAGE to extract similarity features separately from drug-drug and disease-disease \ngraphs. AdaDR572 separately applies GCN to three subgraphs (i.e., drug-drug, disease-disease, and drug-"
+    },
+    {
+      "document": "rp2.pdf",
+      "page": 4,
+      "refined_text": "Accuracy and robustness performance Table 1 shows that GNN-GP outperforms GNN baseline\nin both AUROC and robustness metrics for the CardioTox task. This is the case for both the in-\ndistribution (Test-IID) and the shifted test sets (Test-OOD1 and Test-OOD2). GNN-SNGP shows\nadditional gains in robustness. If resource allows, Deep Ensemble [Lakshminarayanan et al., 2017] of\nGNN-SNGP further boosts performance, eliminating all OFNs in Test-OOD2. It is worth noting that\nour GNN-SNGP ensemble has outperformed previous state-of-the-art neural models [Siramshetty\net al., 2020] in AUROC performance.\nTable 1: Accuracy (AUROC), robustness (ECE, Brier, NLL) and overcon\ufb01dence (OFNs) performance\nfor Drug cardiotoxicity benchmark. Results are averaged over 10 seeds.\nTest-IID\nAUROC (\u2191)\nECE (\u2193)\nBrier (\u2193)\nNLL (\u2193)\nOFNs% (\u2193)\nDA-AUC (\u2191)\nGNN baseline\n0.919\u00b10.003\n0.037\u00b10.003\n0.194\u00b10.007\n0.352\u00b10.018\n4.05\u00b10.26\n0.500\u00b10.004\nGNN-GP\n0.937\u00b10.001\n0.036\u00b10.002\n0.176\u00b10.008\n0.298\u00b10.015\n3.51\u00b10.17\n0.523\u00b10.004\nGNN-SNGP\n0.932\u00b10.001\n0.028\u00b10.001\n0.179\u00b10.005\n0.295\u00b10.005\n3.56\u00b10.21\n0.517\u00b10.004\nGNN-SNGP Ensemble\n0.942\u00b10.000\n0.013\u00b10.001\n0.162\u00b10.000\n0.264\u00b10.001\n2.54\u00b10.07\n0.525\u00b10.002\nTest-OOD1\nAUROC (\u2191)\nECE (\u2193)\nBrier (\u2193)\nNLL (\u2193)\nOFNs% (\u2193)\nDA-AUC (\u2191)\nGNN baseline\n0.786\u00b10.004\n0.102\u00b10.012\n0.343\u00b10.071\n0.578\u00b10.125\n1.68\u00b10.08\n0.604\u00b10.006\nGNN-GP\n0.823\u00b10.003\n0.090\u00b10.010\n0.327\u00b10.061\n0.546\u00b10.107\n1.41\u00b10.12\n0.632\u00b10.002\nGNN-SNGP\n0.836\u00b10.003\n0.074\u00b10.008\n0.316\u00b10.047\n0.503\u00b10.072\n1.31\u00b10.09\n0.635\u00b10.007\nGNN-SNGP Ensemble\n0.850\u00b10.002\n0.039\u00b10.002\n0.277\u00b10.005\n0.428\u00b10.006\n1.22\u00b10.08\n0.643\u00b10.003\nTest-OOD2\nAUROC (\u2191)\nECE (\u2193)\nBrier (\u2193)\nNLL (\u2193)\nOFNs% (\u2193)\nDA-AUC (\u2191)\nGNN baseline\n0.831\u00b10.007\n0.082\u00b10.012\n0.284\u00b10.060\n0.492\u00b10.113\n1.73\u00b10.20\n0.630\u00b10.008\nGNN-GP\n0.873\u00b10.006\n0.074\u00b10.007\n0.261\u00b10.047\n0.442\u00b10.086\n0.98\u00b10.19\n0.656\u00b10.011\nGNN-SNGP\n0.885\u00b10.007\n0.044\u00b10.006\n0.238\u00b10.040\n0.389\u00b10.068\n1.02\u00b10.11\n0.678\u00b10.008\nGNN-SNGP Ensemble\n0.896\u00b10.002\n0.021\u00b10.002\n0.210\u00b10.003\n0.333\u00b10.005\n1.06\u00b10.11\n0.682\u00b10.003\nWhy does distance-awareness help reduce overcon\ufb01dent mispredictions? We observe a signif-\nicant portion of OFNs are distant from the train set (i.e., 60% of them have Tanimoto distance\n> 0.65 [Bajusz et al., 2015], also see Figure S2b). This could happen when a GNN model lacks\nof distance-awareness: a toxic but novel molecule can be far away from the wrong side of model\u2019s\ndecision boundary, due to lacking known toxic signatures that is present in train set. Without being\naware of the distance to train set, the GNN baseline model tends to base its prediction on distance to\nthe decision boundary and give high con\ufb01dence for such cases.\nTo this end, GNN-GP leverages GP\u2019s distance-awareness and is able to naturally incorporate distance\ninto predictive uncertainty. As shown in Table 1, the SN version GNN-SNGP achieves highest\ndistance-awareness (DA-AUC) in the two data-source-shifted test sets, correlating well with OFNs\nreduction. Figure S2b shows a decreasing trend (from GNN baseline to GNN-GP to GNN-SNGP) of\nthe percentage of distant samples among OFNs. Overall, using GP is able to improve uncertainty\nestimate for over 80% of the baseline OFNs while also improving calibration (Figure S4).\nAdditional ablations to assess relative contributions of SN and GP In order to understand relative\nperformance contributions of the two modeling components (i.e., distance-preserving feature extractor\nvs distance-aware classi\ufb01er), we carry out an extensive ablation study in Appendix H. We take the\nlatent representations learned by GNN baseline, GNN-GP and GNN-SNGP (increasing distance-\npreservation) and feed them to classi\ufb01ers with increasing distance-awareness: Dense layer, GP-layer,\nexact Gaussian processes classi\ufb01er (GPC hereafter). Table S2 suggests there\u2019s synergy between\ndistance-preservation of neural representation and distance-awareness of the classi\ufb01er. With the least\ndistance-aware classi\ufb01er (i.e., Dense layer), AUROC drops when increasing distance-preservation\nin neural representation. With the most distance-aware classi\ufb01er (i.e., exact GPC), increasing\nneural representation\u2019s distance-preservation bene\ufb01ts accuracy, robustness as well as overcon\ufb01dence\nreduction. We \ufb01nd a GNN model achieves best performances when both are present in the architecture\n(GNN-SNGP embeddings with GPC). Interesting, naively increasing distance-preservation along is\nnot suf\ufb01cient in guaranteeing good generalization; we observe that the pre-de\ufb01ned representation\n(i.e., the molecule \ufb01ngerprint FP) gives relatively low AUROC under data shifts (e.g., on Test-OOD2)\ndespite being perfectly distance-preserving. This is related to the trade-off in representation learning\nbetween dimension reduction and information preservation. Appendix H discusses in further detail.\nAdditional results on existing benchmarks Consistent with the results obtained in CardioTox,\nGNN-GP also outperforms GNN baseline on three established graph classi\ufb01cation benchmarks [Wu\net al., 2018]: molHIV, BBBP and BACE (see Appendix G). We can make a few observations on the\nresults in Table S1. First, GNN-GP consistently achieves higher AUROC, improves calibration as\nwell as reduces overcon\ufb01dent mispredictions across all the benchmarks than the baseline. Second,\n4"
+    },
+    {
+      "document": "rp2.pdf",
+      "page": 1,
+      "refined_text": "Reliable Graph Neural Networks for Drug Discovery\nUnder Distributional Shift\nKehang Han \u2217\u2020\nGoogle Research\nkehanghan@google.com\nBalaji Lakshminarayanan\nGoogle Research\nbalajiln@google.com\nJeremiah Liu \u2020\nGoogle Research\njereliu@google.com\nAbstract\nThe concern of overcon\ufb01dent mispredictions under distributional shift demands\nextensive reliability research on Graph Neural Networks used in critical tasks\nin drug discovery. Here we \ufb01rst introduce CardioTox, a real-world benchmark\non drug cardiotoxicity to facilitate such efforts. Our exploratory study shows\novercon\ufb01dent mispredictions are often distant from training data. That leads us to\ndevelop distance-aware GNNs: GNN-SNGP. Through evaluation on CardioTox\nand three established benchmarks, we demonstrate GNN-SNGP\u2019s effectiveness in\nincreasing distance-awareness, reducing overcon\ufb01dent mispredictions and making\nbetter calibrated predictions without sacri\ufb01cing accuracy performance. Our ablation\nstudy further reveals the representation learned by GNN-SNGP improves distance-\npreservation over its base architecture and is one major factor for improvements.\n1\nIntroduction\nIn recent years, Graph Neural Networks (GNNs) have illustrated remarkable performance in scienti\ufb01c\napplications such as physics [Battaglia et al., 2016, Sanchez-Gonzalez et al., 2018], biomedical\nscience [Fout et al., 2017], and computational chemistry [Duvenaud et al., 2015, Kearnes et al.,\n2016]. One important example is the early-phase drug discovery, where GNNs have shown promise\nin critical tasks such as hit-\ufb01nding and liability screening (i.e., predicting the binding af\ufb01nity and the\ntoxicity of candidate drug molecules, respectively) [McCloskey et al., 2020, Siramshetty et al., 2020].\nHowever, a key reliability concern that hinders the adoption of GNN in real practice is the overcon-\n\ufb01dent mispredictions. For example, in liability screening, an Overcon\ufb01dent False Negative (OFN\nhereafter) prediction leads the GNN model to mark a toxic molecule as safe, causing severe conse-\nquences by leaking it to the next stage of drug development. Such concern is further exacerbated\nby a second key characteristic of the drug discovery tasks: data distributional shift; drug discovery\ntasks often explicitly evaluate novel molecules by moving into regions in the feature space that are\nnot previously represented in training data. As a result, the testing molecules are characteristically\ndistinct from the training data, and can carry novel toxic signatures that were previously unseen by\nthe model. A model with just high in-distribution accuracy is not suf\ufb01cient under those situations;\nquantifying model reliability and designing techniques to improve robustness against overcon\ufb01dence\nunder distributional shift become especially relevant.\nCurrently, there lacks a drug discovery benchmark that targets realistic concerns about model\nreliability under distributional shifts. Thus, we introduce CardioTox, a data benchmark based on a\nreal-world drug discovery problem and is compiled from 9K+ drug-like molecules from ChEMBL,\nNCATS and FDA validation databases [Siramshetty et al., 2020]. To evaluate model reliability, we\ngenerate additional molecular annotations and propose novel metrics to measure the models against\nthe real-world standards around the responsible application of GNN. This is our \ufb01rst contribution.\n\u2217Google AI Resident\n\u2020Corresponding author\narXiv:2111.12951v1  [cs.LG]  25 Nov 2021"
+    },
+    {
+      "document": "rp2.pdf",
+      "page": 2,
+      "refined_text": "Using CardioTox, our second contribution is an exploratory study on the root causes behind the\novercon\ufb01dent mispredictions under distributional shift, and principled modeling approaches to miti-\ngate it. In particular, we observe that many overcon\ufb01dently mispredicted molecules are structurally\ndistinct from training data (i.e., they are \"far\" from training data based on molecule-\ufb01ngerprint graph\ndistance [Rogers and Hahn, 2010], see Section 3). This failure mode suggests that improving the\ndistance-awareness of a GNN model would be an effective solution: a test molecule that is far away\nfrom the decision boundary (e.g., a toxic but novel molecule, due to its novelty, may possess few\nprior toxic signatures de\ufb01ning the decision boundary) should still get low con\ufb01dence if it\u2019s distant\nfrom training data. To this end, the recently proposed Spectral-normalized Neural Gaussian Processes\n(SNGP) [Liu et al., 2020] demonstrates a concrete approach to achieve this goal. Speci\ufb01cally, it\nimposes a distance-preserving regularization (i.e., spectral normalization) to the feature extractor,\nand replaces the dense output layer with a distance-aware classi\ufb01er (i.e., random-feature Gaussian\nprocess). SNGP has shown promising robustness improvements in vision and language problems.\nTo our best knowledge, this is the \ufb01rst study to bring the distance-aware design principle to GNN\nmodels to to improve reliability performance on the molecule graph.\nTo summarize, our contributions are the following (Appendix E summarizes the related work):\n\u2022 Data: We introduce CardioTox, a real-world drug discovery dataset with multiple test sets (IID\nand distribution-shifted ones), to the robustness community to facilitate reliability research of\ngraph models. The distributional shift challenge re\ufb02ected in CardioTox is realistically faced by\nthe \ufb01eld: test domain often comes from a data source that\u2019s different from the training source and\nhas considerable amount of novel molecule graph structures (see also Figure S3 in Appendix D).\nWe further design distance-based data splits for CardioTox to quantitatively measure model\u2019s\ndistance-awareness.\n\u2022 Model: We develop an end-to-end trainable GNN-SNGP architecture as well as its ablated\nversion GNN-GP. Empirically, this method outperforms its base architecture in not only accuracy\n(e.g., AUROC) but also robustness (e.g., ECE) especially in reducing overcon\ufb01dent mispredictions.\nMeasured by CardioTox\u2019s distance-based data splits, GNN-SNGP shows higher distance-awareness\nunder data shifts than the baselines, which explains its ability in overcon\ufb01dent misprediction\nreduction. Our implementation together with CardioTox dataset will be open sourced via Github.3\n\u2022 Ablation Study: We carry out extensive ablation studies which con\ufb01rm that the robustness\nimprovements come from both distance-aware classi\ufb01er (GP-layer) and the distance-preserving\nlatent representations. We also investigate the generalizability of this approach by testing on other\ngraph modeling domain: molHIV, BBBP and BACE and obtained consistent results.\n2\nMethods\nGNN baseline\nWe use a vanilla Message Passing Neural Network (MPNN) [Gilmer et al., 2017]\nas the GNN baseline in this study. Speci\ufb01cally, the message function is modeled by a dense\nlayer M(hv, hw, evw) = W1[hv||hw||evw], where hv, hw are node features for node v, w respec-\ntively, evw is the edge feature vector between nodes v, w, and W1 is the weight matrix. After\ngetting aggregated message mv for each node, the hidden node feature hv is updated via a Gated\nRecurrent Unit U(hv, mv) = GRU(hv, mv). Finally, we read out graph level representation by\nR = P\nv\u2208V \u03c3(W2[hv||h0\nv]) \u2299 (W3hv), where W2, W3 are two weight matrices and \u03c3 is the sigmoid\nfunction. The graph level representation is fed into a \ufb01nal dense layer to generate logits.\nGNN-GP: improving distance-awareness of classi\ufb01er\nFollowing Liu et al. [2020] who proposed\nGaussian process layer (GP-layer hereafter) in vision and language models, we introduce it to the\ngraph domain and developed GNN-GP model to increase distance-awareness. Figure S1 (Appendix\nA) shows the high-level architectural changes.\nAs Figure 1 shows in detail, Gaussian processes are made end-to-end trainable with GNN by\napproximating GP kernel function via random Fourier feature generation [Rahimi and Recht, 2007].\nSpeci\ufb01cally, coef\ufb01cients \u03c9i, bi are randomly sampled at initialization and kept \ufb01xed during training.\nThe distribution that \u03c9i, bi are sampled from depends on what Gaussian processes kernel we\u2019d like\nto approximate. Take the Gaussian kernel as an example, we have \u03c9i \u223c N(0, 1); bi \u223c U(0, 2\u03c0).\n3https://github.com/google/uncertainty-baselines/tree/main/baselines/drug_\ncardiotoxicity\n2"
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 15,
+      "refined_text": "technology in the drug discovery \ufb01eld, the method is likely to\nencounter additional questions and challenges. According to\nTable 7, Jiang\u2019s research (Jiang et al., 2021) puts forward the\npoint that an optimal predictive model should have a good\nbalance\nbetween\nprediction\naccuracy\nand\ncomputational\nef\ufb01ciency, but graph-based models have an overwhelmingly\nslower training speed than descriptor-based models, so graph-\nbased\nmodels\nhave\nmore\ncomputational\ncost\nand\nless\ncomputational ef\ufb01ciency. Therefore, while the GNN is a rapidly\nemerging deep learning algorithm in the drug discovery \ufb01eld, there\nare still some issues that require further resolution and optimization.\nBurst detection is an algorithm that can capture a sharp increase\nin the heat of a reference in a certain period of time and can be used\nas an effective method for identifying research hotspots and\nemerging trends over time. Figure 7 shows the top 25 references\nwith the strongest citation bursts. The results of the study suggested\nthat the \ufb01rst burst of reference citations in the \ufb01eld began in\n2017 and continued until 2021. Steven Kearnes et al., 2016\npublished this paper on molecular graph convolution in the\nJournal of Computer-Aided Molecular Design in 2016. The paper\nargued that although molecular \u201c\ufb01ngerprinting\u201d is the primary force\nin encoding structural information in current drug discovery, it has\nother shortcomings, such as the need to emphasize speci\ufb01c aspects\nof the molecular structure. They argued that molecular graph\nconvolution can make better use of graph structural information,\nproviding new methods and opportunities for improvements in\nvirtual screening for drug discovery. This was also one of the earliest\npapers we discovered while collecting publication on applying GNN\nto drug discovery. From 2018 to 2023, Gilmer et al., 2017 paper has\nconsistently garnered substantial citations. This paper describes a\ngeneral framework for supervised learning on graphs called Message\nPassing Neural Networks (MPNNs). This framework abstracts\ncommonalities among some of the most promising existing\nneural models designed for graph-structured data. The goal is to\nfacilitate a better understanding of the relationships between these\nmodels and generate novel variations. Meanwhile, there are two\nreferences (Luo et al., 2017; Wen et al., 2017) citation outbreaks that\nare still ongoing, and both are related to DTI prediction, indicating\nthat DTI is a hot research topic for the application of GNN in drugs.\nAccording to Figure 8A, drug-target interaction prediction and\ndrug-drug interaction prediction were the most frequent co-\noccurrence keywords for the range of drugs, which once again\nre\ufb02ects that they are research hotspots in the application of GNN\nin drug discovery.\nMost drugs achieve therapeutic effects through in vivo\ninteractions with speci\ufb01c target molecules such as enzymes,\nnuclear receptors, G-protein-coupled receptors, and ion channels\n(Zhang et al., 2022a). Therefore, the identi\ufb01cation of DTI is an\nimportant \ufb01eld of drug discovery. It is of great signi\ufb01cance to\ndevelop effective computational methods for identifying DTI (Li\net al., 2022a). For example, Zang\u2019s team (Zhao et al., 2021) used drug\nnetworks and protein networks to generate drug-protein pairs\n(DPP) networks. In the DPP network, each node is a DPP, and\nthe edges of the DPP network are inferred from the respective drug\nand protein networks. Here, DPP is a combination of any drug and\nany protein. If the drugs and proteins in a particular DPP can\ninteract with each other, it is labeled as a true DPP and can be\nreferred to as a DTI. The \ufb01ve unknown DTIs identi\ufb01ed using the\nGCN-DTI model, supported by existing literature, demonstrate the\nreliability of the results and the effectiveness of GCN-DTI in\nrecognizing real-world drug-target interactions. In recent studies,\nthe application of multi-modal data features extraction and fusion\ntechniques, such as node2vec and CNN, has been instrumental in\nenhancing the performance of DTI prediction. For example, Sajjad\u2019s\nteam (Dehghan et al., 2024) introduced a multimodal fusion CCL-\nDTI algorithm with contrastive loss. This method uses node2vec to\nextract features from protein-protein and drug-drug interaction\nnetworks, as well as 1D-convolutional neural networks to extract\nfeatures from drug structures, protein sequences, and other data.\nSubsequently, a two-sided attention mechanism is utilized for the\nfusion of multi-modal features. Finally, a multi-layer perceptron is\nemployed to predict the af\ufb01nity value of DTI. Notably, during the\nMLP training process, the introduction and comparison of\ncontrastive loss functions before evaluating the prediction loss\nfunction signi\ufb01cantly enhanced the accuracy and reliability of the\nmodel. Similarly, Parvin\u2019s team (Palhamkhani et al., 2023) proposed\nthe DeepCompoundNet model, which shares similarities with the\nCCL-DTI algorithm. This model utilizes 1D-CNN and node2vec for\nfeature extraction from proteins and compounds, as well as protein-\nprotein and drug-drug interactions. Subsequently, based on the\nfused eigenvectors, the model determines the similarity between\nproteins and chemical vectors in the latent space and predicts\ninteractions between them. These innovative GNN models, which\nare based on multi-modal data feature extraction and fusion,\neffectively capture and learn complex data patterns, resulting in\nsigni\ufb01cant improvements in DTI prediction performance.\nThe process of discovering new drugs is both expensive and\ntime-consuming. Therefore, the exploration of novel target proteins\nthat may be targeted is a crucial approach to repurposing drugs (Lu\net al., 2017). It is well recognized that one drug may have an effect on\nseveral target proteins, and one target protein can be associated with\nmultiple disorders. This forms the basis of drug repositioning.\nTherefore, drug repositioning is a form of drug-target interaction.\nGNN is also being widely used for drug repositioning. Lei\u2019s team\n(Zhang et al., 2022b) proposed a new method based on Graph SAGE\nand clustering constraints (DRGCC) to investigate the potential\ntherapeutic properties of drugs for drug repositioning. The team (Lei\net al., 2022) also proposed a drug repositioning method for\npredicting drug-disease associations using a graph auto coder.\nThese methods can be used to predict anti-COVID-19 drugs\nbased on the existing drug and disease data.\nThe\ntreatment\nof\ncomplex\ndiseases\nby\ntaking\nmultiple\nmedications is becoming increasingly popular, but it is equally\nimportant to circumvent the risk of drug-to-drug adverse reactions\nor\nunknown\ntoxicity\n(Takeda\net\nal.,\n2017).\nTherefore,\nthe\ndevelopment of computational models for predicting drug-drug\ninteractions (DDI) as preventable medical errors is also a research\nfocus of GNN applied in the \ufb01eld of drugs, and good results have been\nachieved. Zitnik developed (Zitnik et al., 2018) Degacon, a method for\npredicting the side effects of drug pairs. First by constructing large\nmultimodal maps of protein-protein interactions, drug-protein\ninteractions, and drug-drug interactions, and then using modeling\nto process them in order to predict polypharmacy side effects. Zhang\u2019s\nteam (Feng et al., 2020) proposed a prediction model called DPDDI\nbased on GCN and deep neural networks. GCN learns the low-\ndimensional feature representation of drugs by capturing the\nFrontiers in Pharmacology\nfrontiersin.org\n15\nYao et al.\n10.3389/fphar.2024.1393415"
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 2,
+      "refined_text": "1 Introduction\nDrug discovery is the \ufb01rst stage in the process of drug\ndevelopment, which is both costly and time-consuming. It entails\ntesting and experimenting with thousands of compounds to identify\nsafe and effective drugs (Schneider et al., 2020). In order to tackle this\ndif\ufb01culty, researchers have begun to experiment with novel methods to\nsave time and \ufb01nancial costs, and applying arti\ufb01cial intelligence to the\n\ufb01eld of drug discovery is one of them (Paul et al., 2020). Arti\ufb01cial\nIntelligence (AI) is a technology that focuses on the application of\ncomputer programs to simulate human intelligent behavior. It involves\nseveral \ufb01elds such as informatics, mathematics, and biology (Shen\net al., 2022a). Arti\ufb01cial neural networks, a fundamental technology in\nthe \ufb01eld of AI, have received growing interest in recent years. For\nexample, algorithms such as convolutional neural networks (CNN),\nrecurrent neural networks (RNN), and autoencoders can automatically\ncapture useful feature information. This addresses the previous\nrequirement where traditional machine learning algorithms had to\ndepend on the manual extraction of information features (Yazdani-\nJahromi et al., 2022). However, traditional algorithms can only handle\nEuclidean spatial data but have limitations in processing non-\nEuclidean spatial data, such as social networks and biological\nnetworks. Therefore, researchers have used the concept of deep\nlearning models, such as CNN and RNN, to establish and develop\na novel arti\ufb01cial neural network called the graph neural network\n(GNN) for processing graph data (Wu et al., 2021a). GNN has\nshown excellent performance in processing non-Euclidean spatial\ndata and has been widely used for traf\ufb01c prediction (Cui et al.,\n2020; Zhao et al., 2020), recommendation systems (Zhang and\nYang, 2019; Wu et al., 2022), and other \ufb01elds.\nDrug discovery also involves a large number of molecular\nstructures and relationships between compounds, which may be\nrepresented as graph data. For example, in the molecular structure\ndata of drugs, the atomic species may be regarded as the nodes of the\ngraph, and the chemical bond types may be seen as the edges of the\ngraph (Liu et al., 2023a; Ma and Lei, 2023). These graph data may be\nused to characterize the topology of molecules, chemical features, and\nother important information to screen and design new drug\ncandidates. Aside from the molecular structure of the drug, several\nnetworks that exhibit interaction relationships may also be regarded as\ngraph data. These networks include the interaction network between\ndrugs, the interaction network between a drug and a target, and the\ninteraction network between proteins (Zhao et al., 2021; Shao et al.,\n2022; Liu et al., 2023b). Therefore, researchers began to apply GNN in\nthe \ufb01eld of drug development, with the aim of using graph data to\nimprove and optimize the process of drug discovery. In 2016, Kearnes\nproposed (Kearnes et al., 2016) applying graph convolutional networks\n(GCN) to extract features from molecular graphs, which allowed the\nmodel to better utilize the information contained within the graph\nstructure. In the following year, Pande combined (Altae-Tran et al.,\n2017) GCN with iterative re\ufb01nement long-short-term memory\nnetworks, which signi\ufb01cantly improved the learning of meaningful\ndistance metrics over small molecules. These advancements marked\nthe beginning of the application of GNN in the \ufb01eld of drug discovery.\nAs GNN technology is increasingly applied to the drug discovery\n\ufb01eld, it has demonstrated outstanding performance in various aspects. In\ncontrast to traditional machine learning algorithms, GNN has the\ncapability to directly analyze the graph structure of a molecule or\nprotein, which naturally expresses the atomic structure inside the\nmolecule and the interactions between them. Simultaneously, GNN\nautomatically learns the representation of molecules through graph\nembedding and integrates multi-modal data, which has obvious\nadvantages in understanding the multilevel mechanism of drug\naction and improving prediction accuracy (Xiong et al., 2020; Zhou\net al., 2020). GNN can be trained to predict multiple target tasks at the\nsame time, such as predicting the solubility and toxicity of molecules at\nthe same time. This approach eliminates the need for traditional\nmachine learning algorithms to create separate models for each\nprediction task and overcomes the challenge of enabling knowledge\nsharing among multiple independent models (Stokes et al., 2020). While\nGNN has obvious advantages in drug discovery, it also presents\nchallenges such as the insuf\ufb01cient interpretability of the model, the\nneed for large amounts of labeled data for training, and the high\nconsumption of computing resources (Zhou et al., 2020; Wu et al.,\n2021a). Therefore, scientists are constantly exploring and improving\nGNN, and the output of related research results has been increasing.\nHowever, it is dif\ufb01cult for researchers to grasp the latest progress and\nresearch hotspots in the \ufb01eld from numerous research results. Hence,\nsummarizing the development status and research hotspots is crucial for\nestablishing research directions and guiding future research. Bibliometric\nanalysis is an information visualization tool that offers researchers who\nhave been or will be engaged in the \ufb01eld a scienti\ufb01c and reliable analysis\nof the research dynamics. For example, scholars can analyze the present\nstatus of research across different nations, institutions, authors, and\npublications to discover active researchers, investigate new collaboration\nopportunities, and examine the present research hotspot and trend by\nexamining the highly cited papers, reference burst detection, keyword\nco-occurrence network, and thematic map.\nThis study aims to provide a comprehensive overview of GNN in\nthe \ufb01eld of drug discovery over the last 7 years, utilizing bibliometric\nanalysis and discussing the following aspects:\nThe pace of development of GNN applications in drug discovery\nfrom 2017 to 2023.\nThe distribution and cooperation status of main countries,\nauthors,\ninstitutions,\nand\njournals\nin\nthe\n\ufb01eld\nof\nGNN\napplications in drug discovery.\nThe research hot spots and emerging developments in the \ufb01eld\nof GNN applications in drug discovery.\nThe paper is organized into four distinct sections: The \ufb01rst part\nintroduces the background of the article and the bibliometric\nmethodology. The second part describes the approach used for\ncollecting and processing data. The third part presents various\naspects of the collected publications, including the quantity\nacross\ndifferent\nyears,\ncountries,\ninstitutions,\njournals,\nand\nauthors, as well as papers frequently cited in the \ufb01eld and\nfrequently occurring keywords. The fourth part summarizes and\ndiscusses these aspects, focusing on the research hot spots, trends,\nand unresolved issues of GNN applications in drug discovery.\n2 Material and methods\n2.1 Data sources\nWe used the Science Citation Index Expanded (SCI-Expanded\n2002\u2013present) from Clarivate Analytics\u2019 Web of Science Core\nFrontiers in Pharmacology\nfrontiersin.org\n02\nYao et al.\n10.3389/fphar.2024.1393415"
+    },
+    {
+      "document": "rp3.pdf",
+      "page": 16,
+      "refined_text": "topological relationships of drugs in the DDI\u2019s network. DPDDI can\npredict potential DDI without considering the chemical and\nbiological properties of drugs. This solves the problem of high or\nunavailable acquisition costs for some drug properties. Although\nrecent computational methods exhibit promising performance in\nDDI screening, their practical implementation faces two signi\ufb01cant\nchallenges: the necessity for comprehensive datasets for clinical\nutilization and the inference of DDI types for new drugs not\nencompassed in existing datasets. To address these obstacles, Yu\u2019s\nteam proposed (Feng et al., 2023) MM-GANN-DDI, a multimodal\ngraph-agnostic neural network for predicting drug interaction events.\nThe model was assessed using two datasets (DB-v1 and DB-v2)\nderived from the DrugBank database, which is a comprehensive\nresource that integrates biological and chemical information. It\nprovides detailed data on drugs veri\ufb01ed through experiments,\nmaking it a crucial source for studying DDI. Importantly, their\nmodel\nexhibits\nthe\npotential\nto\ndiscover\nunobserved\nDDIs,\ndemonstrating its practical application in clinical medication. Most\nof the above studies are done based on heterogeneous information\nnetworks, which can integrate different types of data in the form of\ngraphs, providing rich information in drug discovery to help\nresearchers obtain more accurate research results.\nADMET (absorption, distribution, metabolism, excretion, and\ntoxicity) prediction was an important research direction emerging in\nthe early stages (Liu et al., 2019), and the co-occurrence frequency of\nkeywords such as molecular property prediction and molecular\ncharacterization was higher. Accurate prediction of molecular\nproperties, such as physicochemical and bioactive properties, as\nwell as ADMET properties, remains a fundamental challenge for\nmolecular design, especially for drug design and discovery (Cai et al.,\n2022). Therefore, molecular property prediction is another research\nhotspot in this \ufb01eld.\nAs can be seen from Figure 8B, GCN was the central and developed\ntheme. It can be preliminarily concluded that the GCN was the core\nalgorithm of GNN in the \ufb01eld of drug application. According to Figures\n8A,B, contrastive learning is a new method in this \ufb01eld. It is a method\nfor self-supervised learning. Wang\u2019s team (Wang et al., 2022b) proposed\na MolCLR (Molecular Contrastive Learning of Representations via\nGraph Neural Networks) framework and showed that the contrastive\nlearning framework signi\ufb01cantly improved the performance of graph-\nneural-network encoders on various molecular property benchmarks,\nincluding both classi\ufb01cation and\nregression tasks.\nAnd more\nsophisticated GNNs, which cannot utilize unlabeled data. Simple\nGNN\nmodels\ntrained\nvia\nMolCLR\ndemonstrate\nsigni\ufb01cant\nimprovements on all molecular benchmarks, bene\ufb01ted from pre-\ntraining on large unlabeled data, and improved the problem of\ninsuf\ufb01cient data in molecular learning. The combination with\ntransformer networks is also a recently popular combination, which\ncan preserve the original information about the interactions between\natoms in the chemical structure of a drug, overcoming the problem of a\nlack of learning of edge features by the graph convolutional neural\nnetwork (Zhang et al., 2022c). In addition, improving the explainability\nof models is a common challenge for current machine learning models\n(Karimi et al., 2021; Verhaeghe et al., 2022). Existing methods to\nimprove the interpretability of GNN are to introduce an attention\nmechanism (Karimi et al., 2021; Yang et al., 2022a), Yang\u2019s team\n(Karimi et al., 2019) developed the Deep Af\ufb01nity model by\nintroducing an attention mechanism based on a uni\ufb01ed RNN-CNN.\nIt makes compound-protein af\ufb01nity predictions easier to understand by\nmeasuring the importance of protein, compound, or pair-speci\ufb01c\nfeatures. However, the graph attention mechanism only considers\nthe neighborhood of a vertex (also known as masked attention),\nwhich\ncannot\ncapture\nthe\nglobal\nrelationship\nbetween\neach\nmolecule\u2019s atoms. To this end, Chen\u2019s team (Yang et al., 2022b)\ndeveloped a novel visual explanation method, gradient-weighted\naf\ufb01nity activation mapping (Grad-AAM), to analyze a deep learning\nmodel from the chemical perspective, which may help us gain chemical\ninsights directly from data beyond human perception and improve the\ngeneralization and interpretation capability of drug target af\ufb01nity\n(DTA) prediction modeling. Pablo\u2019s team (Puentes et al., 2022)\nproposes a protein-ligand adversarial augmentation network (PLA-\nNet). PLA-Net is based on a gradient method to calculate antagonistic\nmolecular ampli\ufb01cation, thereby retaining biological consistency and\nessential\nclass\nfeatures\nin\nmolecular\ngraphs\nto\nimprove\nthe\ninterpretability of target-ligand interactions (TLI) predictions.\nMoreover, as shown in Figure 8C, GNN has been widely used in\nother areas closely related to drug discovery, such as drug response\nprediction (Liu et al., 2020; Nguyen et al., 2022), miRNA-disease\nassociation (Li et al., 2020; Li et al., 2022b), and protein-protein\ninteraction (Schulte-Sasse et al., 2021; Yuan et al., 2022).\n4.3 Summary and prospect\nIn light of the above, GNN has been widely applied in various\n\ufb01elds of drug discovery, such as drug target interaction, drug-drug\ninteraction, and ADMET prediction. These\nresearch results\ndemonstrate that utilizing GNN for drug discovery can effectively\nreduce research and development costs and time, expedite the\nintroduction of new drugs to the market, and facilitate faster\nentry of drugs into the clinical application stage. However, there\nare several challenges.\nThe \ufb01rst is interpretability. The GNN model is a black box with an\nopaque prediction process, which is especially important for drug\ndiscovery.\nFor\nexample,\nwhen\nthe\nGNN\u2019s\nprediction\nresults\nrecommend a certain molecule as a potential drug candidate,\nresearchers need to understand the prediction process and the\nfeatures that affect the prediction results in order to conduct further\nexperimental veri\ufb01cation. To improve the interpretability of GNN\nmodels, researchers optimized the GNN algorithm by introducing\nattention mechanisms and gradient methods. To a certain extent,\nthis helps researchers understand the impact of data features on\nprediction\nresults,\nbut\nthese\nmethods\nonly\nprovide\nglobal\ninterpretability and cannot provide detailed explanations for the\ndecision-making logic for speci\ufb01c prediction aims.\nThe second is data availability and ethics. GNN models require\nlarge amounts of labeled data to support accurate predictions.\nObtaining high-quality, comprehensive data is key to utilizing\nGNNs for drug discovery. The patient data and biometric\ninformation involved in this process need to strictly comply with\nethical guidelines to protect patient privacy and data security. This\nissue has not garnered enough attention in current research.\nFurthermore, GNNs are known as black-box models, which\ncomplicates the interpretation of their predictions, which may\naffect the trust and acceptance of the models by clinical\nresearchers and regulatory agencies. Therefore, GNN needs to\nFrontiers in Pharmacology\nfrontiersin.org\n16\nYao et al.\n10.3389/fphar.2024.1393415"
+    },
+    {
+      "document": "rp4.pdf",
+      "page": 5,
+      "refined_text": "Computational framework\nWe utilize Graph Neural Networks (GNN) to learn the latent features of drugs\u2019 molecular graphs and \nConvolutional Neural Networks (CNN) to learn the representation of the gene expression data, and combine \nthem together to predict the response level as shown in Fig. 1. Instead of concatenating latent features of drug \nand cell line as tCNN11 and GraphDRP25, we propose to leverage multi-head attention mechanism introduced \nby Transformer41 to integrate the drug and cell line features effectively.\nEach head Hi in the multi-head attention module can be formulated as\n \nHi = Attention(QW Q\ni , KW K\ni , V W V\ni ) \n(1)\nwhere Q, K and V stand for the query, key and value used in an attention layer. To obtain the drug embed \ninfluenced by gene expressions, we use drug features encoded by GNN as Q and cell line features encoded by \nCNN as K and V. On the contrary, to learn the gene embed, we use cell line features as Q and drug features as K \nand V. Eventually, the integrative features are combined and fed into a predictor composed of a dense layer for \ndrug response prediction.\nAfter developing the model, we adopt Integrated Gradients34 and GNNExplainer33 to explore the saliency of \ninputs, i.e., atoms and bonds of the drug molecule and transcriptomic features of the cell line, which reveals the \nreaction mechanism of cancer cell lines and drugs.\nGraph neural networks (GNN)\nAfter constructing the molecular graphs and extracting atom-level features for the drugs, we develop GNN \nmodels to further learn the latent representation of the drugs. In this work, we take advantage of four types of \nGNN models and compare their performance in drug response and mechanism prediction: Graph Convolutional \nNetworks (GCN)42, Graph Attention Networks (GAT)43, Relational Graph Convolutional Networks (RGCN)44, \nand Relational Graph Attention Networks (RGAT)45. Similarly, the idea for such GNN models is to aggregate the \ninformation from a node itself and its neighborhood.\nIf we define the atom set in a drug\u2019s molecule as V and the bond set as E, the molecular graph of this drug can \nbe given by G = (V, E). Then we use an adjacent binary matrix A \u2208 RN\u00d7N to represent the edge connection \nbetween nodes where N is the number of atoms, ai,j = 1 denotes a connection between node i and j, and ai,j = 0 \ndenotes no connection. Additionally, a feature matrix X \u2208 RN\u00d7M is used for representing the node features of \natoms where M is the dimension of feature vector that has been extracted by the algorithm aforementioned.\nThe GCN layer is defined by\n \nhi = W\n\u001f\nj\u03f5Ni \u001e\n{i}\n\u001daij\n\u001c\n\u001ddi \u001ddj\nxi \n(2)\nwhere \u001f\nA is the adjacent matrix adding a self loop, \u001f\nD is the diagonal degree matrix with \u001fdi,i = \u001e\nj \u001fai,j. xi \ndenotes the node feature vector, W is the weight matrix, and Ni is the neighbor node set of node i.\nFor the GAT layer, the attention coefficient of node i and j is defined as ei,j = a(Wxi, Wxj) according to43, and \nis only computed when node j is in the neighborhood of node i. Then the GAT layer can be given by\n \nhi = \u03b1i,iWxi +\n\u2211\nj\u03f5Ni\n\u03b1i,jWxj \n(3)\nwhere xi is the node feature vector, W is the weight matrix, Ni is the neighbor node set of node i, and \u03b1i,j is the \nnormalized attention coefficients with softmax function.\nNotably, one drawback when adopting the typical GCN and GAT layers on molecular graphs is that they both \ndismiss the edge properties of the graph whereas the varying chemical bond types in a molecule could also \nimpose a crucial impact on the drug\u2019s functional mechanism. In order to tackle this problem, we encode the \nchemical bond type (single, double, triple, and aromatic) into the edge features, which can be used for updating \nedges in the message passing procedure in GNN models. Edge features are directly supported by GAT layer and \nGATv2 layer which is designed to fix the static attention problem of original GAT layer46.\nTo further investigate the effectiveness of edge features, we look into RGCN and RGAT models, which \nconsider edge types as relations and differentiate the message passing patterns according to various relation \ntypes. In molecular graphs, edges represent chemical bonds that naturally possess disparate characteristics \nand should be treated accordingly. Therefore, we attempt to leverage RGCN and RGAT models to represent a \nmolecule more precisely. Considering there are R relations in total, the RGCN layer can be defined as\n \nhi = W (root)xi +\n\u2211\nr\u03f5R\n\u2211\nj\u03f5N(r)\ni\n1\n|N (r)\ni\n|\nW (r)xj \n(4)\nScientific Reports |          (2025) 15:179 \n5\n| https://doi.org/10.1038/s41598-024-83090-3\nwww.nature.com/scientificreports/"
+    },
+    {
+      "document": "rp4.pdf",
+      "page": 1,
+      "refined_text": "Drug discovery and mechanism \nprediction with explainable graph \nneural networks\nConghao Wang, Gaurav Asok Kumar & Jagath C. Rajapakse\uf02a\nApprehension of drug action mechanism is paramount for drug response prediction and precision \nmedicine. The unprecedented development of machine learning and deep learning algorithms has \nexpedited the drug response prediction research. However, existing methods mainly focus on forward \nencoding of drugs, which is to obtain an accurate prediction of the response levels, but omitted to \ndecipher the reaction mechanism between drug molecules and genes. We propose the eXplainable \nGraph-based Drug response Prediction (XGDP) approach that achieves a precise drug response \nprediction and reveals the comprehensive mechanism of action between drugs and their targets. \nXGDP represents drugs with molecular graphs, which naturally preserve the structural information of \nmolecules and a Graph Neural Network module is applied to learn the latent features of molecules. \nGene expression data from cancer cell lines are incorporated and processed by a Convolutional \nNeural Network module. A couple of deep learning attribution algorithms are leveraged to interpret \ninteractions between drug molecular features and genes. We demonstrate that XGDP not only \nenhances the prediction accuracy compared to pioneering works but is also capable of capturing the \nsalient functional groups of drugs and interactions with significant genes of cancer cells.\nAiming at facilitating precision medicine in complex disease such as cancer, computational approaches have \nbeen increasingly proposed to delve into the reactions between drugs and cancer cells1. Recently, numerous \nmachine learning2,3 and deep learning4,5 methods have been successfully applied to predict drug response levels \nprecisely. However, most of them target at phenotypic screening6 and do not come along with a reasonable \ninterpretability, rendering drug reaction mechanism obscure. To expedite precision medicine, it is crucial to \nelucidate the mechanism of action of drugs and thereby promote novel drug discovery.\nA proper representation of a drug molecule is pivotal to any drug response prediction methods. According \nto recent reviews of molecular representations of drugs7, there are mainly three categories of representation: \nlinear notations, molecular fingerprints (FPs), and graph notations. Linear notations encode the molecule with \na vector of string. Two frequently used instances of linear notations are the IUPAC International Chemical \nIdentifier (InChI)8, and the Simplified Molecular-Input Line-Entry System (SMILES)9. SMILES strings are more \nwidely used since it encodes the chemical structure into a string of ASCII characters. CaDRReS10 applied Matrix \nFactorization to learn the latent features of drugs with the cell line gene expression data and drug sensitivity \nmatrix, and compared the similarity scores derived from learned features and SMILES notations. tCNNs11 and \nCDRScan12 adopted Convolutional Neural Networks (CNN) to learn a latent representation of drugs\u2019 SMILES \nvector. CNN is a powerful deep learning approach to handle grid-like data in the domain of texts and images, \nwhich can be used to encode the linear notations of drugs as well. However, the SMILES notation does not \npossess the property of locality like texts and images since the physically adjacent atoms in the sequence of \nSMILES string can be far away from each other in the real molecular environment, and therefore dimisses the \nstructural information of molecules.\nMolecular fingerprints, such as Molecular Access System (MACCS)13 and Chemically Advanced Template \nSearch14, identify the key structures of a molecule and represent them with a binary vector where each bit \ndenotes the structure\u2019s existence. A drawback of this kind of representation is that only the pre-defined structure \ncan be recognized, which might hamper the discovery of novel structures. To circumvent this problem, circular \nfingerprints such as Extended Connectivity FPs (ECFPs) based on Morgan algorithm15 has been proposed to \niteratively search the substructures of molecules rather than pre-define them. The information of these crucial \nstructures is preserved in this kind of representation, whereas the positional information is lost, and we can \nhardly track where these sub-structures occur in the molecule. DeepDSC16 combines Morgan fingerprints of \ndrugs into the latent features of cancer cell lines learned by an auto-encoder. S2DV17 applied word2vec18 to \nCollege of Computing and Data Science, Nanyang Technological University, Singapore 639798, Singapore. \uf02aemail: \nASJagath@ntu.edu.sg\nOPEN\nScientific Reports |          (2025) 15:179 \n1\n| https://doi.org/10.1038/s41598-024-83090-3\nwww.nature.com/scientificreports"
+    },
+    {
+      "document": "rp4.pdf",
+      "page": 8,
+      "refined_text": "unlike GraphDRP and XGDP, tCNN used 1D convolutional layers to encode the SMILES notation of drugs, \nwhich renders it infeasible to decode the developed models to investigate structural saliency of drugs upon \nreaction with cancer cells.\nBlind prediction of responses of unknown drugs\nIn the blind test of response prediction of unknown drugs, we divide the dataset by constraining the existence of \ndrugs exclusively in training, validation, or testing set. Specifically, out of 223 drugs in total, 167 drugs\u2019 response \ndata are used for a 3-fold cross-validation, and response data of 56 drugs are preserved for testing. The blind \nprediction task aims at testing whether the model developed on known drugs has the generalizability to predict \nresponses of unknown drugs.\nIn the blind test experiment, we compare our method with tCNN, GraphDRP and TGSA. DeepCDR is ignored \nsince the code to flexibly divide the dataset according to drug occurrence is not provided. As shown in Table \n2, GAT- and GAT_E-based XGDP remarkably outperform other models. All baseline methods fail to perform \nwell on blind test, especially in terms of R2, which is in accordance with their original research11,25,27. tCNN and \nTGSA achieves a very small R2 value (~0.02) and GraphDRP even results in negative R2 values, which indicates \nthese models are not making a sensible prediction when a brand new drug is given. Nevertheless, GAT-based \nXGDP models with and without edge features are able to achieve a significant improvement compared with the \nbaselines.\nXGDP achieves state-of-the-art performance in both rediscovery and blind test. However, scrutinizing the \nresults of XGDP with various GNN types, it is observed that incorporating chemical bond type as edge features \nor relation types in relational GNNs does not always give rise to a better performance. Despite that RGCN \noutperforms GCN in both tasks, GAT-based XGDP suppresses all other edge-enhanced GAT models in Table \n1, and in Table 2, only GAT_E performs better than plain GAT convolution. Nonetheless, in the next section, \nwe will demonstrate that, to investigate the structural importance of molecules, it is essential to include edge \nfeatures as well.\nPrediction without cross-attention layers\nTo investigate the role of the cross-attention layers, we conducted an ablation study to compare XGDP with or \nwithout the attention layers. Particularly, we removed the two cross-attention modules following the GNN and \nCNN, and directly concatenated the features learned by the GNN and CNN modules as the input of the final \ndense layer. As shown in Table 3, it is evident that the cross-attention layer enhances the performance of drug \nresponse prediction and maintains better stability.\nDiscovery of drug mechanisms\nWe decode our models with GNNExplainer and Integrated Gradients, and present the attribution results of \nour best performing GATv2 model in this section. GNNExplainer is leveraged to explain the model\u2019s graph \nconvolutional layers, and thus attribute the input molecular graphs. By interpreting a reaction pair of drug \nand cell line, each node and edge in the molecular graph is assigned with a saliency score. For each drug, we \nsum and average the saliency scores across all the cell lines for each node and edge, and perform a max-min \nnormalization across the nodes or edges in one molecular graph. The normalized scores range from 0 to 1 and \nclearly illustrate the importance of a region of substructures to a drug\u2019s biochemical reaction. The normalized \nscore is thereby used for a heatmap visualization, where red in Figs. 2, 3, 4, and 5 represents high saliency and \nblue represents low saliency.\nTo investigate the gene saliency in the pharmacodynamic process, we aggregate the saliency scores across all \nthe cell lines for each drug in the test set, and thereby rank and select the top 50 genes with highest accumulated \nscores. Attribution of four drugs are illustrated as examples to support this study in the following sections.\nMethod\nConv type\nRMSE (\u2193)\nPCC (\u2191 )\nR2 (\u2191 )\ntCNN11\nCNN\n0.056 \u00b1 0.001\n0.356 \u00b1 0.019\n0.027 \u00b1 0.010\nGraphDRP25\nGCN\n0.063 \u00b1 0.002\n0.450 \u00b1 0.026\n0.153 \u00b1 0.048\nGAT\n0.071 \u00b1 0.003\n0.351 \u00b1 0.165\n-0.041 \u00b1 0.045\nTGSA (exp)27\nGraphSAGE\n2.809 \u00b1 0.035\n0.329 \u00b1 0.058\n0.026 \u00b1 0.078\nXGDP\nGCN\n0.056 \u00b1 0.000\n0.400 \u00b1 0.016\n0.048 \u00b1 0.015\nGAT\n0.053 \u00b1 0.001\n0.448 \u00b1 0.036\n0.149 \u00b1 0.052\nGAT_E\n0.052 \u00b1 0.003\n0.505 \u00b1 0.090\n0.164 \u00b1 0.043\nGATv2_E\n0.055 \u00b1 0.002\n0.442 \u00b1 0.041\n0.058 \u00b1 0.024\nRGCN\n0.055 \u00b1 0.001\n0.405 \u00b1 0.031\n0.063 \u00b1 0.045\nRGAT\n0.055 \u00b1 0.002\n0.257 \u00b1 0.061\n0.063 \u00b1 0.060\nTable 2. Performance of proposed and baseline models in task of drug-blind prediction. Best performance \n(marked in bold) is achieved by XGDP-GAT_E.\n \nScientific Reports |          (2025) 15:179 \n8\n| https://doi.org/10.1038/s41598-024-83090-3\nwww.nature.com/scientificreports/"
+    }
+  ]
+}
